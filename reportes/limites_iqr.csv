@@ -1,0 +1,4 @@
+fuente,columna,agrupado_por,grupo,registros_calculo,registros_aplicados,q1,q3,iqr,limite_inferior,limite_superior,outliers_inferiores,outliers_superiores,outliers
+atm,monto_mxn,,TOTAL,476,503,500.0,7000.0,6500.0,0.0,16750.0,0,1,1
+spei,amount,currency,MXN,466,466,10000.955,26267.6,16266.644999999999,0.0,50667.5675,0,15,15
+spei,amount,currency,USD,134,134,11413.8875,26838.635000000002,15424.747500000001,0.0,49975.756250000006,0,3,3

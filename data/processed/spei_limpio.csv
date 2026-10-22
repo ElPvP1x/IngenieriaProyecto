@@ -1,0 +1,601 @@
+transfer_id,timestamp,account_id,amount,currency,beneficiary_clabe,notification_email,concept,status,platform,notification_email_original,email_motivo,email_corregido,email_normalizado,amount_original,amount_recortado
+SPEI-2026-00001,2026-09-12T19:49:00-06:00,CTA-0025,19844.18,MXN,012210100614023846,destinatario_450@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_450@banco.com.mx,VALIDO,False,False,19844.18,False
+SPEI-2026-00002,1788816180,CTA-0015,33048.19,MXN,012851851854195836,destinatario_380@banco.com.mx,Transferencia,DEVUELTA,Web Banking,destinatario_380@banco.com.mx,VALIDO,False,False,33048.19,False
+SPEI-2026-00003,2026-10-15T00:56:00-06:00,CTA-0010,28312.37,USD,012842918353119961,destinatario_104@banco.com.mx,Comida,RECHAZADA,Web Banking,destinatario_104@banco.com.mx,VALIDO,False,False,28312.37,False
+SPEI-2026-00004,2026-09-04T06:10:00-06:00,CTA-0018,24203.36,USD,012336305969190102,SIN_CORREO,Nómina,LIQUIDADA,App iOS,correo@@sinformato,INVALIDO,True,False,24203.36,False
+SPEI-2026-00005,2026-09-04T16:54:00-06:00,CTA-0043,16161.79,MXN,012521491455376024,destinatario_577@banco.com.mx,Préstamo,liquidada,App Android,destinatario_577@banco.com.mx,VALIDO,False,False,16161.79,False
+SPEI-2026-00006,2026-10-05T07:45:00-06:00,CTA-0033,23655.43,MXN,012303038526024269,destinatario_652@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_652@banco.com.mx,VALIDO,False,False,23655.43,False
+SPEI-2026-00007,2026-10-02T20:24:00-06:00,CTA-0028,7353.49,USD,012728469620153910,destinatario_274@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_274@banco.com.mx,VALIDO,False,False,7353.49,False
+SPEI-2026-00008,1792194120,CTA-0030,2053.69,MXN,012504511978792561,destinatario_751@banco.com.mx,Comida,liquidada,App Android,destinatario_751@banco.com.mx,VALIDO,False,False,2053.69,False
+SPEI-2026-00009,2026-10-15T13:45:00-06:00,CTA-0021,49975.756250000006,USD,012241108926812341,destinatario_620@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_620@banco.com.mx,VALIDO,False,False,4141401.0,True
+SPEI-2026-00010,2026-10-11T10:47:00-06:00,CTA-0050,13743.06,MXN,012109708130886858,destinatario_276@banco.com.mx,Comida,liquidada,Web Banking,destinatario_276@banco.com.mx,VALIDO,False,False,13743.06,False
+SPEI-2026-00011,2026-10-11T12:10:00-06:00,CTA-0043,15680.41,MXN,12345,destinatario_293@banco.com.mx,Nómina,liquidada,App Android,destinatario_293@banco.com.mx,VALIDO,False,False,15680.41,False
+SPEI-2026-00012,1789864560,CTA-0006,519.89,USD,012880953179623505,destinatario_527@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_527@banco.com.mx,VALIDO,False,False,519.89,False
+SPEI-2026-00013,2026-09-22T01:37:00-06:00,CTA-7940,2383.03,USD,12345,SIN_CORREO,Pago Renta,PENDIENTE,App Android,invalido.com,INVALIDO,True,False,2383.03,False
+SPEI-2026-00014,1789342740,CTA-0049,29280.57,USD,012106519125464547,destinatario_706@banco.com.mx,Servicios,LIQUIDADA,App Android,destinatario_706@banco.com.mx,VALIDO,False,False,29280.57,False
+SPEI-2026-00015,1788452700,CTA-0043,23993.8,USD,012246144295159794,SIN_CORREO,Nómina,PENDIENTE,Web Banking,,VACIO,True,False,23993.8,False
+SPEI-2026-00016,1789997340,CTA-7586,3200.1,MXN,012858062685227041,destinatario_774@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_774@banco.com.mx,VALIDO,False,False,3200.1,False
+SPEI-2026-00017,2026-10-10T08:18:00-06:00,CTA-7959,10523.48,MXN,012410772447434435,destinatario_832@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_832@banco.com.mx,VALIDO,False,False,10523.48,False
+SPEI-2026-00018,2026-10-01T21:57:00-06:00,CTA-0030,33288.22,MXN,012382612241268933,SIN_CORREO,Nómina,PENDIENTE,App iOS,invalido.com,INVALIDO,True,False,33288.22,False
+SPEI-2026-00019,2026-09-05T15:20:00-06:00,CTA-0028,49975.756250000006,USD,012797745330532040,destinatario_188@banco.com.mx,Nómina,liquidada,Web Banking,destinatario_188@banco.com.mx,VALIDO,False,False,2893386.0,True
+SPEI-2026-00020,1789140900,CTA-0003,27013.77,MXN,012488828838195462,destinatario_608@banco.com.mx,Préstamo,liquidada,API Empresarial,destinatario_608@banco.com.mx,VALIDO,False,False,27013.77,False
+SPEI-2026-00021,2026-10-07T00:10:00-06:00,CTA-0029,18785.51,MXN,012570647398880977,destinatario_487@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_487@banco.com.mx,VALIDO,False,False,18785.51,False
+SPEI-2026-00022,1790660700,CTA-0034,50667.5675,MXN,012479674569505307,destinatario_447@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_447@banco.com.mx,VALIDO,False,False,5141233.5,True
+SPEI-2026-00023,2026-09-18T07:20:00-06:00,CTA-0026,29241.26,MXN,012187430646203033,destinatario_899@banco.com.mx,Servicios,LIQUIDADA,Web Banking,destinatario_899@banco.com.mx,VALIDO,False,False,29241.26,False
+SPEI-2026-00024,1791748020,CTA-0042,17706.35,MXN,012157679078774506,destinatario_368@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_368@banco.com.mx,VALIDO,False,False,17706.35,False
+SPEI-2026-00025,2026-09-27T08:57:00-06:00,CTA-0023,23796.31,MXN,012175599078679219,destinatario_339@banco.com.mx,Préstamo,LIQUIDADA,Web Banking,destinatario_339@banco.com.mx,VALIDO,False,False,23796.31,False
+SPEI-2026-00026,2026-10-09T18:02:00-06:00,CTA-0048,16664.46,USD,012974902065708337,destinatario_690@banco.com.mx,Préstamo,LIQUIDADA,API Empresarial,destinatario_690@banco.com.mx,VALIDO,False,False,16664.46,False
+SPEI-2026-00027,2026-09-25T00:18:00-06:00,CTA-0036,26363.81,MXN,012894758907116654,destinatario_445@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_445@banco.com.mx,VALIDO,False,False,26363.81,False
+SPEI-2026-00028,2026-10-01T20:28:00-06:00,CTA-0026,14189.08,USD,012306077408395828,destinatario_223@banco.com.mx,Servicios,DEVUELTA,API Empresarial,destinatario_223@banco.com.mx,VALIDO,False,False,14189.08,False
+SPEI-2026-00029,1789720740,CTA-0042,17807.58,MXN,012470972474121188,destinatario_436@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_436@banco.com.mx,VALIDO,False,False,17807.58,False
+SPEI-2026-00030,2026-09-27T06:19:00-06:00,CTA-0037,18050.55,USD,012127098665819614,destinatario_968@banco.com.mx,Préstamo,RECHAZADA,App iOS,destinatario_968@banco.com.mx,VALIDO,False,False,18050.55,False
+SPEI-2026-00031,1789949280,CTA-0041,15966.62,USD,012888310173067667,destinatario_977@banco.com.mx,Comida,DEVUELTA,API Empresarial,destinatario_977@banco.com.mx,VALIDO,False,False,15966.62,False
+SPEI-2026-00032,1789386780,CTA-7400,26717.06,USD,012634311175186109,destinatario_792@banco.com.mx,Comida,PENDIENTE,App Android,destinatario_792@banco.com.mx,VALIDO,False,False,26717.06,False
+SPEI-2026-00033,2026-10-10T02:43:00-06:00,CTA-0033,32570.58,MXN,012463507574001932,destinatario_675@banco.com.mx,Nómina,liquidada,API Empresarial,destinatario_675@banco.com.mx,VALIDO,False,False,32570.58,False
+SPEI-2026-00034,2026-09-01T17:27:00-06:00,CTA-0048,9221.39,MXN,012908352385636268,destinatario_398@banco.com.mx,Comida,liquidada,App iOS,destinatario_398@banco.com.mx,VALIDO,False,False,9221.39,False
+SPEI-2026-00035,2026-09-21T09:43:00-06:00,CTA-0016,723.76,MXN,012571243718923378,destinatario_893@banco.com.mx,Servicios,PENDIENTE,App Android,destinatario_893@banco.com.mx,VALIDO,False,False,723.76,False
+SPEI-2026-00036,1791231120,CTA-0022,21273.67,MXN,012677170214168888,destinatario_378@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_378@banco.com.mx,VALIDO,False,False,21273.67,False
+SPEI-2026-00037,2026-10-14T23:04:00-06:00,CTA-0045,14529.27,MXN,012405207423635985,destinatario_105@banco.com.mx,Transferencia,LIQUIDADA,Web Banking,destinatario_105@banco.com.mx,VALIDO,False,False,14529.27,False
+SPEI-2026-00038,2026-10-08T01:06:00-06:00,CTA-0034,30892.83,MXN,012675339448221819,destinatario_840@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_840@banco.com.mx,VALIDO,False,False,30892.83,False
+SPEI-2026-00039,2026-10-01T01:59:00-06:00,CTA-0008,22096.84,USD,012808306735700323,destinatario_149@banco.com.mx,Comida,LIQUIDADA,API Empresarial,destinatario_149@banco.com.mx,VALIDO,False,False,22096.84,False
+SPEI-2026-00040,2026-10-04T05:38:00-06:00,CTA-0010,22812.31,MXN,012467325044655543,destinatario_952@banco.com.mx,Pago Renta,LIQUIDADA,API Empresarial,destinatario_952@banco.com.mx,VALIDO,False,False,22812.31,False
+SPEI-2026-00041,2026-10-13T18:21:00-06:00,CTA-0033,22657.26,USD,012871717972843081,SIN_CORREO,Comida,DEVUELTA,App iOS,correo@@sinformato,INVALIDO,True,False,22657.26,False
+SPEI-2026-00042,1790446080,CTA-0031,49975.756250000006,USD,012815623399926205,destinatario_739@banco.com.mx,Nómina,DEVUELTA,App Android,destinatario_739@banco.com.mx,VALIDO,False,False,707211.0,True
+SPEI-2026-00043,2026-09-18T08:13:00-06:00,CTA-0017,22075.98,MXN,012866138507892695,destinatario_359@banco.com.mx,Servicios,LIQUIDADA,App iOS,destinatario_359@banco.com.mx,VALIDO,False,False,22075.98,False
+SPEI-2026-00044,2026-09-19T21:59:00-06:00,CTA-0048,23034.15,MXN,012201359448208912,destinatario_517@banco.com.mx,Nómina,liquidada,API Empresarial,destinatario_517@banco.com.mx,VALIDO,False,False,23034.15,False
+SPEI-2026-00045,1789257480,CTA-0001,28810.99,MXN,012830738763817774,destinatario_160@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_160@banco.com.mx,VALIDO,False,False,28810.99,False
+SPEI-2026-00046,1789013940,CTA-0021,24459.12,MXN,012699868203430954,destinatario_613@banco.com.mx,Préstamo,RECHAZADA,App iOS,destinatario_613@banco.com.mx,VALIDO,False,False,24459.12,False
+SPEI-2026-00047,2026-10-15T08:53:00-06:00,CTA-0026,5183.11,MXN,012661163238769455,destinatario_834@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_834@banco.com.mx,VALIDO,False,False,5183.11,False
+SPEI-2026-00048,1788960420,CTA-0013,16252.57,MXN,012182968397132004,destinatario_641@banco.com.mx,Comida,RECHAZADA,API Empresarial,destinatario_641@banco.com.mx,VALIDO,False,False,16252.57,False
+SPEI-2026-00049,1789210020,CTA-0043,21188.89,MXN,012797926016633424,destinatario_269@banco.com.mx,Servicios,DEVUELTA,API Empresarial,destinatario_269@banco.com.mx,VALIDO,False,False,21188.89,False
+SPEI-2026-00050,1791419160,CTA-0030,13224.59,MXN,012762014036902612,destinatario_715@banco.com.mx,Comida,PENDIENTE,App Android,destinatario_715@banco.com.mx,VALIDO,False,False,13224.59,False
+SPEI-2026-00051,2026-10-06T23:30:00-06:00,CTA-0049,18041.14,MXN,12345,destinatario_561@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_561@banco.com.mx,VALIDO,False,False,18041.14,False
+SPEI-2026-00052,2026-10-04T08:57:00-06:00,CTA-0004,11491.6,MXN,012774965983727838,destinatario_863@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_863@banco.com.mx,VALIDO,False,False,11491.6,False
+SPEI-2026-00053,1788621540,CTA-7918,24458.91,MXN,012941039312109661,destinatario_250@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_250@banco.com.mx,VALIDO,False,False,24458.91,False
+SPEI-2026-00054,2026-10-07T02:13:00-06:00,CTA-0047,18104.69,USD,012629258269573995,destinatario_429@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_429@banco.com.mx,VALIDO,False,False,18104.69,False
+SPEI-2026-00055,2026-09-25T09:10:00-06:00,CTA-0043,24420.45,MXN,012898739232527561,destinatario_111@banco.com.mx,Pago Renta,PENDIENTE,App Android,destinatario_111@banco.com.mx,VALIDO,False,False,24420.45,False
+SPEI-2026-00056,2026-09-02T18:59:00-06:00,CTA-0015,21321.66,MXN,012551124554709813,destinatario_737@banco.com.mx,Comida,PENDIENTE,App iOS,destinatario_737@banco.com.mx,VALIDO,False,False,21321.66,False
+SPEI-2026-00057,2026-09-26T17:08:00-06:00,CTA-0024,23077.92,USD,012560538212704455,destinatario_102@banco.com.mx,Comida,DEVUELTA,Web Banking,destinatario_102@banco.com.mx,VALIDO,False,False,23077.92,False
+SPEI-2026-00058,2026-10-12T23:41:00-06:00,CTA-0010,29639.55,MXN,012390062724101393,destinatario_914@banco.com.mx,Nómina,RECHAZADA,App Android,destinatario_914@banco.com.mx,VALIDO,False,False,29639.55,False
+SPEI-2026-00059,2026-09-13T15:42:00-06:00,CTA-0043,3437.81,MXN,012290905465303206,destinatario_601@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_601@banco.com.mx,VALIDO,False,False,3437.81,False
+SPEI-2026-00060,2026-10-07T21:11:00-06:00,CTA-0049,11706.73,USD,012179919558445947,destinatario_955@banco.com.mx,Comida,DEVUELTA,App Android,destinatario_955@banco.com.mx,VALIDO,False,False,11706.73,False
+SPEI-2026-00061,1789314360,CTA-0003,34870.91,MXN,012100097104630924,destinatario_559@banco.com.mx,Servicios,DEVUELTA,App iOS,destinatario_559@banco.com.mx,VALIDO,False,False,34870.91,False
+SPEI-2026-00062,1790506140,CTA-0035,32309.02,MXN,012461809821150908,destinatario_808@banco.com.mx,Comida,LIQUIDADA,API Empresarial,destinatario_808@banco.com.mx,VALIDO,False,False,32309.02,False
+SPEI-2026-00063,2026-10-06T11:05:00-06:00,CTA-0045,23026.48,MXN,012495949891035780,destinatario_707@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_707@banco.com.mx,VALIDO,False,False,23026.48,False
+SPEI-2026-00064,2026-10-03T00:22:00-06:00,CTA-0023,25525.75,MXN,012393378271948084,destinatario_428@banco.com.mx,Comida,DEVUELTA,Web Banking,destinatario_428@banco.com.mx,VALIDO,False,False,25525.75,False
+SPEI-2026-00065,2026-09-08T12:03:00-06:00,CTA-0043,144.11,MXN,012907071653681509,destinatario_701@banco.com.mx,Préstamo,LIQUIDADA,Web Banking,destinatario_701@banco.com.mx,VALIDO,False,False,144.11,False
+SPEI-2026-00066,2026-09-16T19:59:00-06:00,CTA-0049,6278.48,MXN,012530792042629321,destinatario_124@banco.com.mx,Nómina,LIQUIDADA,App Android,destinatario_124@banco.com.mx,VALIDO,False,False,6278.48,False
+SPEI-2026-00067,2026-10-06T12:43:00-06:00,CTA-0035,24283.39,MXN,012270630514197426,destinatario_555@banco.com.mx,Nómina,PENDIENTE,Web Banking,destinatario_555@banco.com.mx,VALIDO,False,False,24283.39,False
+SPEI-2026-00068,2026-09-19T22:27:00-06:00,CTA-0025,7170.14,MXN,012162479748624357,destinatario_838@banco.com.mx,Comida,DEVUELTA,Web Banking,destinatario_838@banco.com.mx,VALIDO,False,False,7170.14,False
+SPEI-2026-00069,1791068220,CTA-0002,15148.49,MXN,012643775322707827,destinatario_837@banco.com.mx,Pago Renta,PENDIENTE,App Android,destinatario_837@banco.com.mx,VALIDO,False,False,15148.49,False
+SPEI-2026-00070,2026-10-16T03:38:00-06:00,CTA-0044,29376.39,USD,012188786518962647,destinatario_744@banco.com.mx,Transferencia,liquidada,API Empresarial,destinatario_744@banco.com.mx,VALIDO,False,False,29376.39,False
+SPEI-2026-00071,2026-09-22T17:17:00-06:00,CTA-0007,12034.71,MXN,012225465097061290,destinatario_346@banco.com.mx,Servicios,LIQUIDADA,Web Banking,destinatario_346@banco.com.mx,VALIDO,False,False,12034.71,False
+SPEI-2026-00072,1791976140,CTA-0044,31679.18,MXN,012509105395844822,destinatario_587@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_587@banco.com.mx,VALIDO,False,False,31679.18,False
+SPEI-2026-00073,2026-10-14T04:58:00-06:00,CTA-0044,15560.57,USD,012795341559571278,destinatario_499@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_499@banco.com.mx,VALIDO,False,False,15560.57,False
+SPEI-2026-00074,2026-09-25T13:08:00-06:00,CTA-0032,11468.75,USD,012361307370659223,destinatario_484@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_484@banco.com.mx,VALIDO,False,False,11468.75,False
+SPEI-2026-00075,2026-09-02T04:23:00-06:00,CTA-0020,15722.43,MXN,012472270793304768,destinatario_497@banco.com.mx,Pago Renta,DEVUELTA,App Android,destinatario_497@banco.com.mx,VALIDO,False,False,15722.43,False
+SPEI-2026-00076,1789588380,CTA-0026,25596.14,USD,012399468436974575,destinatario_189@banco.com.mx,Comida,PENDIENTE,App iOS,destinatario_189@banco.com.mx,VALIDO,False,False,25596.14,False
+SPEI-2026-00077,1791445020,CTA-7221,28202.02,USD,012126238536129712,destinatario_129@banco.com.mx,Préstamo,liquidada,App Android,destinatario_129@banco.com.mx,VALIDO,False,False,28202.02,False
+SPEI-2026-00078,2026-09-24T18:29:00-06:00,CTA-0030,30018.51,MXN,12345,destinatario_944@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_944@banco.com.mx,VALIDO,False,False,30018.51,False
+SPEI-2026-00079,1790200740,CTA-0030,28405.64,MXN,012459184008308931,destinatario_704@banco.com.mx,Comida,PENDIENTE,Web Banking,destinatario_704@banco.com.mx,VALIDO,False,False,28405.64,False
+SPEI-2026-00080,1789509900,CTA-0022,19659.04,USD,012494504038682451,destinatario_709@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_709@banco.com.mx,VALIDO,False,False,19659.04,False
+SPEI-2026-00081,2026-09-11T05:38:00-06:00,CTA-0026,4361.01,MXN,12345,destinatario_153@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_153@banco.com.mx,VALIDO,False,False,4361.01,False
+SPEI-2026-00082,2026-10-05T13:01:00-06:00,CTA-0020,30236.06,MXN,012118053491752899,destinatario_531@banco.com.mx,Préstamo,LIQUIDADA,Web Banking,destinatario_531@banco.com.mx,VALIDO,False,False,30236.06,False
+SPEI-2026-00083,2026-09-05T11:12:00-06:00,CTA-0002,8102.46,USD,012205711209560122,destinatario_192@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_192@banco.com.mx,VALIDO,False,False,8102.46,False
+SPEI-2026-00084,2026-09-09T05:16:00-06:00,CTA-0024,20696.04,MXN,012522636419806830,destinatario_680@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_680@banco.com.mx,VALIDO,False,False,20696.04,False
+SPEI-2026-00085,1792096620,CTA-0021,4352.63,MXN,012690776756217586,destinatario_181@banco.com.mx,Comida,DEVUELTA,API Empresarial,destinatario_181@banco.com.mx,VALIDO,False,False,4352.63,False
+SPEI-2026-00086,1792175820,CTA-0020,30986.86,MXN,012783731793138575,destinatario_299@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_299@banco.com.mx,VALIDO,False,False,30986.86,False
+SPEI-2026-00087,1790306940,CTA-0001,8538.91,USD,012923073794245700,destinatario_589@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_589@banco.com.mx,VALIDO,False,False,8538.91,False
+SPEI-2026-00088,1791371400,CTA-0007,17135.97,MXN,012895413727750306,destinatario_970@banco.com.mx,Servicios,liquidada,App Android,destinatario_970@banco.com.mx,VALIDO,False,False,17135.97,False
+SPEI-2026-00089,1789826520,CTA-0026,4711.33,MXN,012523408442472411,destinatario_267@banco.com.mx,Comida,liquidada,Web Banking,destinatario_267@banco.com.mx,VALIDO,False,False,4711.33,False
+SPEI-2026-00090,2026-09-16T19:59:00-06:00,CTA-0031,18745.37,MXN,12345,SIN_CORREO,Pago Renta,RECHAZADA,App iOS,invalido.com,INVALIDO,True,False,18745.37,False
+SPEI-2026-00091,2026-09-13T07:48:00-06:00,CTA-0040,10302.06,MXN,012780774094486247,destinatario_404@banco.com.mx,Nómina,PENDIENTE,App iOS,destinatario_404@banco.com.mx,VALIDO,False,False,10302.06,False
+SPEI-2026-00092,1790096100,CTA-0031,24167.02,MXN,012591362828415017,SIN_CORREO,Comida,PENDIENTE,App iOS,,VACIO,True,False,24167.02,False
+SPEI-2026-00093,2026-09-08T00:00:00-06:00,CTA-0015,9987.89,MXN,012953847115383829,destinatario_789@banco.com.mx,Transferencia,liquidada,App Android,destinatario_789@banco.com.mx,VALIDO,False,False,9987.89,False
+SPEI-2026-00094,2026-09-30T06:13:00-06:00,CTA-0030,25422.88,MXN,012922032253719516,destinatario_134@banco.com.mx,Servicios,LIQUIDADA,App Android,destinatario_134@banco.com.mx,VALIDO,False,False,25422.88,False
+SPEI-2026-00095,1789584660,CTA-0004,5972.83,MXN,012195491243399210,destinatario_411@banco.com.mx,Pago Renta,DEVUELTA,Web Banking,destinatario_411@banco.com.mx,VALIDO,False,False,5972.83,False
+SPEI-2026-00096,2026-10-02T08:01:00-06:00,CTA-0009,16589.84,MXN,012573157019687159,destinatario_618@banco.com.mx,Comida,LIQUIDADA,API Empresarial,destinatario_618@banco.com.mx,VALIDO,False,False,16589.84,False
+SPEI-2026-00097,2026-09-03T07:45:00-06:00,CTA-0001,23199.47,MXN,012554347169155302,destinatario_967@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_967@banco.com.mx,VALIDO,False,False,23199.47,False
+SPEI-2026-00098,2026-09-18T10:38:00-06:00,CTA-0029,3701.83,MXN,012864927536762154,destinatario_701@banco.com.mx,Comida,PENDIENTE,Web Banking,destinatario_701@banco.com.mx,VALIDO,False,False,3701.83,False
+SPEI-2026-00099,2026-09-05T08:38:00-06:00,CTA-0039,1251.64,MXN,012772404111584147,destinatario_422@banco.com.mx,Transferencia,liquidada,App Android,destinatario_422@banco.com.mx,VALIDO,False,False,1251.64,False
+SPEI-2026-00100,1790608380,CTA-0050,34138.82,MXN,012276708272582331,destinatario_490@banco.com.mx,Comida,PENDIENTE,App iOS,destinatario_490@banco.com.mx,VALIDO,False,False,34138.82,False
+SPEI-2026-00101,2026-09-22T19:18:00-06:00,CTA-0007,50667.5675,MXN,012591947488666058,destinatario_174@banco.com.mx,Nómina,liquidada,App Android,destinatario_174@banco.com.mx,VALIDO,False,False,1325872.5,True
+SPEI-2026-00102,2026-10-16T09:31:00-06:00,CTA-0034,32523.58,MXN,012667471465309608,destinatario_507@banco.com.mx,Pago Renta,PENDIENTE,App Android,destinatario_507@banco.com.mx,VALIDO,False,False,32523.58,False
+SPEI-2026-00103,2026-09-14T14:33:00-06:00,CTA-0009,2070.41,MXN,12345,destinatario_968@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_968@banco.com.mx,VALIDO,False,False,2070.41,False
+SPEI-2026-00104,2026-10-07T20:23:00-06:00,CTA-0017,34284.99,MXN,012127583961089562,destinatario_990@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_990@banco.com.mx,VALIDO,False,False,34284.99,False
+SPEI-2026-00105,2026-09-18T18:49:00-06:00,CTA-0040,23755.56,USD,012273574423623137,destinatario_103@banco.com.mx,Pago Renta,LIQUIDADA,App iOS,destinatario_103@banco.com.mx,VALIDO,False,False,23755.56,False
+SPEI-2026-00106,2026-09-27T02:24:00-06:00,CTA-0010,14683.38,USD,012670344531543847,destinatario_426@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_426@banco.com.mx,VALIDO,False,False,14683.38,False
+SPEI-2026-00107,2026-09-26T10:20:00-06:00,CTA-0034,17298.96,MXN,12345,destinatario_276@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_276@banco.com.mx,VALIDO,False,False,17298.96,False
+SPEI-2026-00108,2026-10-04T04:18:00-06:00,CTA-0027,14544.58,MXN,012392746270280125,destinatario_432@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_432@banco.com.mx,VALIDO,False,False,14544.58,False
+SPEI-2026-00109,2026-09-10T06:12:00-06:00,CTA-0001,50667.5675,MXN,012922117049940890,destinatario_894@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_894@banco.com.mx,VALIDO,False,False,5240100.0,True
+SPEI-2026-00110,2026-09-20T08:09:00-06:00,CTA-0040,14421.87,MXN,012154617945140089,destinatario_916@banco.com.mx,Transferencia,PENDIENTE,App Android,destinatario_916@banco.com.mx,VALIDO,False,False,14421.87,False
+SPEI-2026-00111,1789794240,CTA-7623,473.45,MXN,012645828480230336,SIN_CORREO,Comida,DEVUELTA,App Android,,VACIO,True,False,473.45,False
+SPEI-2026-00112,1789082220,CTA-0022,21348.28,MXN,012622457183162693,destinatario_405@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_405@banco.com.mx,VALIDO,False,False,21348.28,False
+SPEI-2026-00113,2026-10-07T10:31:00-06:00,CTA-0001,20077.65,MXN,012957110665527265,destinatario_444@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_444@banco.com.mx,VALIDO,False,False,20077.65,False
+SPEI-2026-00114,2026-09-17T08:09:00-06:00,CTA-0040,1598.11,MXN,012776064490377736,destinatario_192@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_192@banco.com.mx,VALIDO,False,False,1598.11,False
+SPEI-2026-00115,2026-09-30T06:54:00-06:00,CTA-0002,3418.1,USD,012699643086115017,destinatario_780@banco.com.mx,Préstamo,PENDIENTE,Web Banking,destinatario_780@banco.com.mx,VALIDO,False,False,3418.1,False
+SPEI-2026-00116,2026-10-13T09:04:00-06:00,CTA-0008,9392.3,MXN,012104158393634964,destinatario_635@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_635@banco.com.mx,VALIDO,False,False,9392.3,False
+SPEI-2026-00117,2026-09-26T22:32:00-06:00,CTA-0034,19990.78,MXN,12345,destinatario_762@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_762@banco.com.mx,VALIDO,False,False,19990.78,False
+SPEI-2026-00118,2026-09-18T05:29:00-06:00,CTA-0049,32486.81,MXN,12345,destinatario_969@banco.com.mx,Servicios,liquidada,App Android,destinatario_969@banco.com.mx,VALIDO,False,False,32486.81,False
+SPEI-2026-00119,1791966180,CTA-0042,32320.14,MXN,012268412112930583,destinatario_192@banco.com.mx,Nómina,DEVUELTA,Web Banking,destinatario_192@banco.com.mx,VALIDO,False,False,32320.14,False
+SPEI-2026-00120,2026-09-20T13:39:00-06:00,CTA-0037,32678.07,MXN,012262593395519695,destinatario_341@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_341@banco.com.mx,VALIDO,False,False,32678.07,False
+SPEI-2026-00121,1788346560,CTA-0038,28971.98,MXN,012456187772845607,destinatario_825@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_825@banco.com.mx,VALIDO,False,False,28971.98,False
+SPEI-2026-00122,2026-09-18T14:28:00-06:00,CTA-0036,2517.52,MXN,012328021161825532,destinatario_530@banco.com.mx,Pago Renta,PENDIENTE,App iOS,destinatario_530@banco.com.mx,VALIDO,False,False,2517.52,False
+SPEI-2026-00123,1789417920,CTA-0048,11248.18,MXN,012674127045719164,destinatario_671@banco.com.mx,Transferencia,DEVUELTA,App Android,destinatario_671@banco.com.mx,VALIDO,False,False,11248.18,False
+SPEI-2026-00124,2026-09-14T16:16:00-06:00,CTA-0036,7227.44,MXN,012639291921704726,destinatario_259@banco.com.mx,Nómina,liquidada,API Empresarial,destinatario_259@banco.com.mx,VALIDO,False,False,7227.44,False
+SPEI-2026-00125,2026-09-08T20:50:00-06:00,CTA-0012,29747.87,USD,012212328628278380,destinatario_660@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_660@banco.com.mx,VALIDO,False,False,29747.87,False
+SPEI-2026-00126,1788821340,CTA-0049,22727.52,MXN,12345,destinatario_511@banco.com.mx,Pago Renta,LIQUIDADA,API Empresarial,destinatario_511@banco.com.mx,VALIDO,False,False,22727.52,False
+SPEI-2026-00127,2026-10-01T04:37:00-06:00,CTA-0015,21254.0,MXN,012846192634502041,destinatario_381@banco.com.mx,Servicios,RECHAZADA,API Empresarial,destinatario_381@banco.com.mx,VALIDO,False,False,21254.0,False
+SPEI-2026-00128,2026-10-16T10:02:00-06:00,CTA-0016,17910.59,MXN,012353651598880804,destinatario_631@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_631@banco.com.mx,VALIDO,False,False,17910.59,False
+SPEI-2026-00129,2026-10-02T14:15:00-06:00,CTA-0001,29403.26,MXN,012483103907070757,destinatario_323@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_323@banco.com.mx,VALIDO,False,False,29403.26,False
+SPEI-2026-00130,1790160060,CTA-0003,21142.47,MXN,12345,destinatario_327@banco.com.mx,Préstamo,PENDIENTE,App Android,destinatario_327@banco.com.mx,VALIDO,False,False,21142.47,False
+SPEI-2026-00131,2026-09-20T02:19:00-06:00,CTA-0005,22816.45,MXN,012993154118002305,destinatario_870@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_870@banco.com.mx,VALIDO,False,False,22816.45,False
+SPEI-2026-00132,2026-09-08T10:40:00-06:00,CTA-0029,27186.73,MXN,012795705031744239,SIN_CORREO,Pago Renta,liquidada,App Android,,VACIO,True,False,27186.73,False
+SPEI-2026-00133,2026-10-11T08:22:00-06:00,CTA-0020,14449.88,MXN,012957129078232991,destinatario_929@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_929@banco.com.mx,VALIDO,False,False,14449.88,False
+SPEI-2026-00134,2026-09-28T06:08:00-06:00,CTA-0005,26555.47,MXN,012755602512932774,destinatario_313@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_313@banco.com.mx,VALIDO,False,False,26555.47,False
+SPEI-2026-00135,2026-10-13T04:42:00-06:00,CTA-0046,13802.92,USD,012253914610136712,destinatario_860@banco.com.mx,Pago Renta,RECHAZADA,Web Banking,destinatario_860@banco.com.mx,VALIDO,False,False,13802.92,False
+SPEI-2026-00136,2026-09-20T20:10:00-06:00,CTA-0043,6168.01,MXN,012177654610082884,destinatario_975@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_975@banco.com.mx,VALIDO,False,False,6168.01,False
+SPEI-2026-00137,1788382680,CTA-0025,13481.31,MXN,012237734134356931,destinatario_360@banco.com.mx,Transferencia,PENDIENTE,Web Banking,destinatario_360@banco.com.mx,VALIDO,False,False,13481.31,False
+SPEI-2026-00138,1788748260,CTA-0042,32521.62,MXN,012114780428452668,destinatario_165@banco.com.mx,Nómina,LIQUIDADA,App iOS,destinatario_165@banco.com.mx,VALIDO,False,False,32521.62,False
+SPEI-2026-00139,2026-09-05T20:53:00-06:00,CTA-0036,3505.92,MXN,012639884551593634,destinatario_407@banco.com.mx,Pago Renta,PENDIENTE,Web Banking,destinatario_407@banco.com.mx,VALIDO,False,False,3505.92,False
+SPEI-2026-00140,2026-10-15T15:51:00-06:00,CTA-0014,34868.02,USD,012556067699457971,destinatario_836@banco.com.mx,Transferencia,liquidada,App Android,destinatario_836@banco.com.mx,VALIDO,False,False,34868.02,False
+SPEI-2026-00141,2026-09-10T13:54:00-06:00,CTA-0002,26231.09,MXN,012231250709464280,destinatario_761@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_761@banco.com.mx,VALIDO,False,False,26231.09,False
+SPEI-2026-00142,2026-10-09T23:24:00-06:00,CTA-0008,50667.5675,MXN,012370793029135543,destinatario_420@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_420@banco.com.mx,VALIDO,False,False,5001225.0,True
+SPEI-2026-00143,2026-09-15T08:39:00-06:00,CTA-0045,31492.57,USD,012348496301082900,destinatario_548@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_548@banco.com.mx,VALIDO,False,False,31492.57,False
+SPEI-2026-00144,1791620400,CTA-0029,28508.12,MXN,012376197369382154,SIN_CORREO,Préstamo,LIQUIDADA,API Empresarial,invalido.com,INVALIDO,True,False,28508.12,False
+SPEI-2026-00145,2026-09-24T13:56:00-06:00,CTA-0026,13222.45,MXN,012946235214249392,destinatario_662@banco.com.mx,Nómina,LIQUIDADA,Web Banking,destinatario_662@banco.com.mx,VALIDO,False,False,13222.45,False
+SPEI-2026-00146,2026-09-25T19:40:00-06:00,CTA-0042,5570.38,MXN,012436227617864305,destinatario_801@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_801@banco.com.mx,VALIDO,False,False,5570.38,False
+SPEI-2026-00147,2026-09-22T10:04:00-06:00,CTA-7183,29119.43,MXN,012869382940958168,destinatario_377@banco.com.mx,Comida,DEVUELTA,API Empresarial,destinatario_377@banco.com.mx,VALIDO,False,False,29119.43,False
+SPEI-2026-00148,1791207360,CTA-0035,8479.95,MXN,012525555135004606,destinatario_358@banco.com.mx,Transferencia,LIQUIDADA,Web Banking,destinatario_358@banco.com.mx,VALIDO,False,False,8479.95,False
+SPEI-2026-00149,2026-10-08T06:09:00-06:00,CTA-0019,24399.05,USD,012340553889025173,destinatario_638@banco.com.mx,Transferencia,LIQUIDADA,Web Banking,destinatario_638@banco.com.mx,VALIDO,False,False,24399.05,False
+SPEI-2026-00150,2026-09-19T07:28:00-06:00,CTA-7329,3361.81,MXN,12345,destinatario_815@banco.com.mx,Pago Renta,PENDIENTE,API Empresarial,destinatario_815@banco.com.mx,VALIDO,False,False,3361.81,False
+SPEI-2026-00151,1789907820,CTA-0006,2319.06,USD,012810787756427232,destinatario_592@banco.com.mx,Pago Renta,DEVUELTA,App iOS,destinatario_592@banco.com.mx,VALIDO,False,False,2319.06,False
+SPEI-2026-00152,2026-09-03T19:42:00-06:00,CTA-0007,14842.4,MXN,012557727776750367,destinatario_879@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_879@banco.com.mx,VALIDO,False,False,14842.4,False
+SPEI-2026-00153,2026-10-13T06:15:00-06:00,CTA-0038,13061.46,MXN,12345,destinatario_823@banco.com.mx,Nómina,liquidada,App iOS,destinatario_823@banco.com.mx,VALIDO,False,False,13061.46,False
+SPEI-2026-00154,2026-09-28T10:41:00-06:00,CTA-0033,24353.34,MXN,012934178376431253,destinatario_950@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_950@banco.com.mx,VALIDO,False,False,24353.34,False
+SPEI-2026-00155,1788427200,CTA-0031,20629.38,MXN,012577846902148925,destinatario_197@banco.com.mx,Nómina,PENDIENTE,App Android,destinatario_197@banco.com.mx,VALIDO,False,False,20629.38,False
+SPEI-2026-00156,2026-09-18T01:02:00-06:00,CTA-0009,34207.16,MXN,012525340800867525,destinatario_780@banco.com.mx,Pago Renta,LIQUIDADA,App iOS,destinatario_780@banco.com.mx,VALIDO,False,False,34207.16,False
+SPEI-2026-00157,2026-09-14T08:34:00-06:00,CTA-0008,3580.95,MXN,012526526832828700,destinatario_278@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_278@banco.com.mx,VALIDO,False,False,3580.95,False
+SPEI-2026-00158,2026-09-17T10:53:00-06:00,CTA-0039,11697.32,MXN,012969775108735622,destinatario_290@banco.com.mx,Comida,DEVUELTA,API Empresarial,destinatario_290@banco.com.mx,VALIDO,False,False,11697.32,False
+SPEI-2026-00159,2026-09-17T18:32:00-06:00,CTA-0012,6126.67,USD,012378680484625995,destinatario_929@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_929@banco.com.mx,VALIDO,False,False,6126.67,False
+SPEI-2026-00160,2026-10-06T20:40:00-06:00,CTA-0037,29071.69,MXN,012875019695760493,destinatario_954@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_954@banco.com.mx,VALIDO,False,False,29071.69,False
+SPEI-2026-00161,2026-09-05T08:31:00-06:00,CTA-0037,5561.83,MXN,012797593143367034,destinatario_993@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_993@banco.com.mx,VALIDO,False,False,5561.83,False
+SPEI-2026-00162,2026-09-15T07:25:00-06:00,CTA-0024,5615.93,MXN,012543389938127888,destinatario_896@banco.com.mx,Préstamo,liquidada,Web Banking,destinatario_896@banco.com.mx,VALIDO,False,False,5615.93,False
+SPEI-2026-00163,2026-10-15T22:44:00-06:00,CTA-0038,22200.97,USD,012381297800452040,destinatario_664@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_664@banco.com.mx,VALIDO,False,False,22200.97,False
+SPEI-2026-00164,2026-09-20T03:21:00-06:00,CTA-0010,16045.45,USD,012804021353779975,destinatario_528@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_528@banco.com.mx,VALIDO,False,False,16045.45,False
+SPEI-2026-00165,2026-09-19T13:35:00-06:00,CTA-0043,8659.97,MXN,012922728444547655,destinatario_522@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_522@banco.com.mx,VALIDO,False,False,8659.97,False
+SPEI-2026-00166,2026-10-10T19:48:00-06:00,CTA-0016,23021.69,MXN,012193791348726121,destinatario_462@banco.com.mx,Comida,liquidada,API Empresarial,destinatario_462@banco.com.mx,VALIDO,False,False,23021.69,False
+SPEI-2026-00167,1788385860,CTA-0016,2109.63,USD,012408348996902428,destinatario_893@banco.com.mx,Servicios,DEVUELTA,App iOS,destinatario_893@banco.com.mx,VALIDO,False,False,2109.63,False
+SPEI-2026-00168,2026-09-25T23:17:00-06:00,CTA-0009,34273.47,USD,012964931647281931,destinatario_507@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_507@banco.com.mx,VALIDO,False,False,34273.47,False
+SPEI-2026-00169,2026-09-10T23:37:00-06:00,CTA-0018,13631.58,MXN,012315335984808083,destinatario_452@banco.com.mx,Servicios,liquidada,Web Banking,destinatario_452@banco.com.mx,VALIDO,False,False,13631.58,False
+SPEI-2026-00170,2026-10-07T08:32:00-06:00,CTA-7404,23388.55,USD,012909078995408146,destinatario_523@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_523@banco.com.mx,VALIDO,False,False,23388.55,False
+SPEI-2026-00171,2026-09-02T13:43:00-06:00,CTA-0044,11535.85,MXN,012220960837402831,destinatario_133@banco.com.mx,Comida,LIQUIDADA,App iOS,destinatario_133@banco.com.mx,VALIDO,False,False,11535.85,False
+SPEI-2026-00172,1789605480,CTA-0046,26661.58,MXN,012406132263967702,destinatario_331@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_331@banco.com.mx,VALIDO,False,False,26661.58,False
+SPEI-2026-00173,2026-10-14T08:34:00-06:00,CTA-0014,28902.08,MXN,012169890836167563,destinatario_807@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_807@banco.com.mx,VALIDO,False,False,28902.08,False
+SPEI-2026-00174,2026-10-05T02:06:00-06:00,CTA-7257,20263.05,MXN,12345,destinatario_778@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_778@banco.com.mx,VALIDO,False,False,20263.05,False
+SPEI-2026-00175,1790539140,CTA-0036,34973.85,MXN,012144537102414887,destinatario_174@banco.com.mx,Nómina,LIQUIDADA,App Android,destinatario_174@banco.com.mx,VALIDO,False,False,34973.85,False
+SPEI-2026-00176,1790091300,CTA-0048,2143.98,USD,012638243993111343,destinatario_176@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_176@banco.com.mx,VALIDO,False,False,2143.98,False
+SPEI-2026-00177,2026-09-07T06:58:00-06:00,CTA-0038,11371.2,USD,012990265487212022,destinatario_975@banco.com.mx,Nómina,liquidada,App iOS,destinatario_975@banco.com.mx,VALIDO,False,False,11371.2,False
+SPEI-2026-00178,2026-09-02T04:19:00-06:00,CTA-0020,200.57,MXN,012199379767377066,destinatario_633@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_633@banco.com.mx,VALIDO,False,False,200.57,False
+SPEI-2026-00179,2026-09-21T04:58:00-06:00,CTA-0020,27052.62,MXN,012514896031555128,destinatario_546@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_546@banco.com.mx,VALIDO,False,False,27052.62,False
+SPEI-2026-00180,2026-10-06T02:02:00-06:00,CTA-0016,21532.58,MXN,012290637647912187,destinatario_488@banco.com.mx,Nómina,LIQUIDADA,Web Banking,destinatario_488@banco.com.mx,VALIDO,False,False,21532.58,False
+SPEI-2026-00181,1788668100,CTA-0004,11635.79,MXN,012308905757104356,destinatario_779@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_779@banco.com.mx,VALIDO,False,False,11635.79,False
+SPEI-2026-00182,2026-09-11T10:11:00-06:00,CTA-0022,10950.48,MXN,012647815704127491,destinatario_242@banco.com.mx,Pago Renta,DEVUELTA,Web Banking,destinatario_242@banco.com.mx,VALIDO,False,False,10950.48,False
+SPEI-2026-00183,1790620680,CTA-0023,33239.85,MXN,012888983897416746,SIN_CORREO,Servicios,DEVUELTA,Web Banking,correo@@sinformato,INVALIDO,True,False,33239.85,False
+SPEI-2026-00184,2026-09-14T11:23:00-06:00,CTA-0026,5140.28,MXN,012613055689523435,destinatario_559@banco.com.mx,Servicios,liquidada,Web Banking,destinatario_559@banco.com.mx,VALIDO,False,False,5140.28,False
+SPEI-2026-00185,1789671300,CTA-0002,1547.03,USD,012105734736894305,destinatario_769@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_769@banco.com.mx,VALIDO,False,False,1547.03,False
+SPEI-2026-00186,2026-09-03T22:32:00-06:00,CTA-0017,50667.5675,MXN,012560692845953377,destinatario_753@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_753@banco.com.mx,VALIDO,False,False,4604904.0,True
+SPEI-2026-00187,2026-09-10T00:30:00-06:00,CTA-0035,25218.02,USD,012257630287670934,destinatario_991@banco.com.mx,Comida,liquidada,App Android,destinatario_991@banco.com.mx,VALIDO,False,False,25218.02,False
+SPEI-2026-00188,1789799640,CTA-0010,5486.29,MXN,12345,destinatario_720@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_720@banco.com.mx,VALIDO,False,False,5486.29,False
+SPEI-2026-00189,2026-09-15T11:56:00-06:00,CTA-0008,32763.64,MXN,012971787933526798,destinatario_130@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_130@banco.com.mx,VALIDO,False,False,32763.64,False
+SPEI-2026-00190,2026-10-04T18:08:00-06:00,CTA-0042,32535.36,USD,012504631724700547,destinatario_754@banco.com.mx,Comida,LIQUIDADA,API Empresarial,destinatario_754@banco.com.mx,VALIDO,False,False,32535.36,False
+SPEI-2026-00191,2026-09-09T17:01:00-06:00,CTA-0002,10538.56,USD,012373126975171322,destinatario_987@banco.com.mx,Comida,RECHAZADA,App Android,destinatario_987@banco.com.mx,VALIDO,False,False,10538.56,False
+SPEI-2026-00192,1788833760,CTA-0033,28005.37,MXN,012297353903642360,destinatario_743@banco.com.mx,Comida,PENDIENTE,App Android,destinatario_743@banco.com.mx,VALIDO,False,False,28005.37,False
+SPEI-2026-00193,2026-09-23T15:58:00-06:00,CTA-7227,921.57,MXN,012229938966083367,destinatario_575@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_575@banco.com.mx,VALIDO,False,False,921.57,False
+SPEI-2026-00194,1790472960,CTA-0016,19361.61,MXN,012744200393911477,destinatario_604@banco.com.mx,Pago Renta,PENDIENTE,Web Banking,destinatario_604@banco.com.mx,VALIDO,False,False,19361.61,False
+SPEI-2026-00195,2026-09-01T13:38:00-06:00,CTA-0048,1756.92,MXN,012711615373165116,destinatario_256@banco.com.mx,Servicios,LIQUIDADA,App iOS,destinatario_256@banco.com.mx,VALIDO,False,False,1756.92,False
+SPEI-2026-00196,2026-09-30T07:14:00-06:00,CTA-0027,15569.62,MXN,012566542730177934,destinatario_508@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_508@banco.com.mx,VALIDO,False,False,15569.62,False
+SPEI-2026-00197,1788517320,CTA-0036,9848.33,USD,012820739152267621,destinatario_508@banco.com.mx,Servicios,RECHAZADA,Web Banking,destinatario_508@banco.com.mx,VALIDO,False,False,9848.33,False
+SPEI-2026-00198,2026-10-02T05:20:00-06:00,CTA-0050,18626.06,MXN,012382075846733326,destinatario_346@banco.com.mx,Préstamo,PENDIENTE,App iOS,destinatario_346@banco.com.mx,VALIDO,False,False,18626.06,False
+SPEI-2026-00199,1788727500,CTA-0018,11618.24,USD,012468873730126542,destinatario_994@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_994@banco.com.mx,VALIDO,False,False,11618.24,False
+SPEI-2026-00200,2026-09-02T12:11:00-06:00,CTA-0038,13289.89,MXN,012369268943512955,destinatario_268@banco.com.mx,Nómina,liquidada,App Android,destinatario_268@banco.com.mx,VALIDO,False,False,13289.89,False
+SPEI-2026-00201,2026-10-14T19:18:00-06:00,CTA-0022,29698.91,MXN,012691503494291878,destinatario_650@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_650@banco.com.mx,VALIDO,False,False,29698.91,False
+SPEI-2026-00202,1791573900,CTA-0009,21622.42,MXN,012775805188290533,destinatario_261@banco.com.mx,Nómina,LIQUIDADA,Web Banking,destinatario_261@banco.com.mx,VALIDO,False,False,21622.42,False
+SPEI-2026-00203,1791201420,CTA-0030,20682.39,MXN,012546096799477409,destinatario_491@banco.com.mx,Nómina,RECHAZADA,App iOS,destinatario_491@banco.com.mx,VALIDO,False,False,20682.39,False
+SPEI-2026-00204,2026-09-15T18:10:00-06:00,CTA-0008,27319.21,MXN,012570608350188465,destinatario_107@banco.com.mx,Comida,LIQUIDADA,App iOS,destinatario_107@banco.com.mx,VALIDO,False,False,27319.21,False
+SPEI-2026-00205,2026-09-16T06:23:00-06:00,CTA-0042,17078.11,MXN,012897962763369422,SIN_CORREO,Préstamo,DEVUELTA,App iOS,correo@@sinformato,INVALIDO,True,False,17078.11,False
+SPEI-2026-00206,2026-09-22T12:45:00-06:00,CTA-0012,17253.42,MXN,12345,destinatario_477@banco.com.mx,Servicios,PENDIENTE,App Android,destinatario_477@banco.com.mx,VALIDO,False,False,17253.42,False
+SPEI-2026-00207,2026-09-23T23:51:00-06:00,CTA-0019,8239.93,USD,012701766930852276,destinatario_766@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_766@banco.com.mx,VALIDO,False,False,8239.93,False
+SPEI-2026-00208,1789824480,CTA-0047,21542.11,MXN,012887343158108189,destinatario_461@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_461@banco.com.mx,VALIDO,False,False,21542.11,False
+SPEI-2026-00209,1792178460,CTA-0027,16509.05,USD,012747955017372151,SIN_CORREO,Pago Renta,RECHAZADA,API Empresarial,correo@@sinformato,INVALIDO,True,False,16509.05,False
+SPEI-2026-00210,2026-10-13T02:51:00-06:00,CTA-0027,4664.99,USD,012715974013613043,destinatario_216@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_216@banco.com.mx,VALIDO,False,False,4664.99,False
+SPEI-2026-00211,2026-10-11T13:13:00-06:00,CTA-0031,6984.87,USD,012180625793142028,destinatario_652@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_652@banco.com.mx,VALIDO,False,False,6984.87,False
+SPEI-2026-00212,2026-09-27T07:58:00-06:00,CTA-0024,29610.82,USD,012940438938315239,SIN_CORREO,Préstamo,liquidada,App Android,correo@@sinformato,INVALIDO,True,False,29610.82,False
+SPEI-2026-00213,1792051980,CTA-0045,21000.37,MXN,012334967406984165,destinatario_971@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_971@banco.com.mx,VALIDO,False,False,21000.37,False
+SPEI-2026-00214,2026-10-06T06:51:00-06:00,CTA-0043,19975.86,MXN,012689741613024204,destinatario_449@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_449@banco.com.mx,VALIDO,False,False,19975.86,False
+SPEI-2026-00215,2026-09-25T11:10:00-06:00,CTA-0002,6480.42,MXN,012171620163645800,destinatario_912@banco.com.mx,Servicios,liquidada,Web Banking,destinatario_912@banco.com.mx,VALIDO,False,False,6480.42,False
+SPEI-2026-00216,2026-09-15T07:31:00-06:00,CTA-0023,13759.2,MXN,012562447621748180,destinatario_495@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_495@banco.com.mx,VALIDO,False,False,13759.2,False
+SPEI-2026-00217,2026-09-11T08:52:00-06:00,CTA-0011,12897.9,MXN,12345,destinatario_414@banco.com.mx,Servicios,PENDIENTE,App Android,destinatario_414@banco.com.mx,VALIDO,False,False,12897.9,False
+SPEI-2026-00218,2026-09-21T12:34:00-06:00,CTA-0027,5047.66,MXN,012945202861981918,destinatario_987@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_987@banco.com.mx,VALIDO,False,False,5047.66,False
+SPEI-2026-00219,2026-09-21T22:01:00-06:00,CTA-0015,7582.1,MXN,012247480900324607,destinatario_375@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_375@banco.com.mx,VALIDO,False,False,7582.1,False
+SPEI-2026-00220,2026-09-10T06:18:00-06:00,CTA-0012,34439.61,MXN,12345,destinatario_975@banco.com.mx,Préstamo,DEVUELTA,API Empresarial,destinatario_975@banco.com.mx,VALIDO,False,False,34439.61,False
+SPEI-2026-00221,2026-09-24T03:55:00-06:00,CTA-0009,1865.29,MXN,012250820051642284,destinatario_335@banco.com.mx,Servicios,PENDIENTE,App Android,destinatario_335@banco.com.mx,VALIDO,False,False,1865.29,False
+SPEI-2026-00222,2026-09-29T20:46:00-06:00,CTA-0013,32429.95,MXN,012649705969536300,destinatario_376@banco.com.mx,Transferencia,DEVUELTA,App iOS,destinatario_376@banco.com.mx,VALIDO,False,False,32429.95,False
+SPEI-2026-00223,1791726120,CTA-0027,34284.65,MXN,012255735464501056,SIN_CORREO,Nómina,LIQUIDADA,App iOS,correo@@sinformato,INVALIDO,True,False,34284.65,False
+SPEI-2026-00224,2026-10-14T16:18:00-06:00,CTA-0047,13600.05,MXN,012339271566078266,destinatario_990@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_990@banco.com.mx,VALIDO,False,False,13600.05,False
+SPEI-2026-00225,2026-10-03T05:44:00-06:00,CTA-7808,25346.17,MXN,012820705543457715,destinatario_814@banco.com.mx,Comida,RECHAZADA,API Empresarial,destinatario_814@banco.com.mx,VALIDO,False,False,25346.17,False
+SPEI-2026-00226,2026-09-09T00:35:00-06:00,CTA-0039,9833.61,MXN,012263896758598272,destinatario_153@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_153@banco.com.mx,VALIDO,False,False,9833.61,False
+SPEI-2026-00227,2026-09-01T02:06:00-06:00,CTA-0042,3884.87,MXN,012897682348260665,destinatario_643@banco.com.mx,Comida,LIQUIDADA,App Android,destinatario_643@banco.com.mx,VALIDO,False,False,3884.87,False
+SPEI-2026-00228,2026-10-03T18:40:00-06:00,CTA-0047,10040.15,MXN,012372456713359285,destinatario_162@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_162@banco.com.mx,VALIDO,False,False,10040.15,False
+SPEI-2026-00229,2026-09-22T06:33:00-06:00,CTA-0014,18051.05,USD,12345,destinatario_417@banco.com.mx,Pago Renta,PENDIENTE,App iOS,destinatario_417@banco.com.mx,VALIDO,False,False,18051.05,False
+SPEI-2026-00230,1791131040,CTA-0026,29435.78,USD,012989807541389035,SIN_CORREO,Pago Renta,DEVUELTA,App Android,correo@@sinformato,INVALIDO,True,False,29435.78,False
+SPEI-2026-00231,2026-09-28T02:06:00-06:00,CTA-0007,14879.05,MXN,012743212450045279,destinatario_532@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_532@banco.com.mx,VALIDO,False,False,14879.05,False
+SPEI-2026-00232,1791117720,CTA-0046,16703.34,MXN,012703833657092766,destinatario_428@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_428@banco.com.mx,VALIDO,False,False,16703.34,False
+SPEI-2026-00233,2026-10-08T11:27:00-06:00,CTA-0005,19112.86,MXN,012838741154528327,destinatario_345@banco.com.mx,Comida,liquidada,Web Banking,destinatario_345@banco.com.mx,VALIDO,False,False,19112.86,False
+SPEI-2026-00234,2026-10-13T04:06:00-06:00,CTA-0026,16895.13,MXN,012581609394548206,destinatario_168@banco.com.mx,Comida,liquidada,App iOS,destinatario_168@banco.com.mx,VALIDO,False,False,16895.13,False
+SPEI-2026-00235,2026-09-13T00:09:00-06:00,CTA-0050,5557.78,MXN,012584134658907816,destinatario_283@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_283@banco.com.mx,VALIDO,False,False,5557.78,False
+SPEI-2026-00236,1790315100,CTA-0041,30623.83,MXN,12345,destinatario_407@banco.com.mx,Comida,DEVUELTA,App Android,destinatario_407@banco.com.mx,VALIDO,False,False,30623.83,False
+SPEI-2026-00237,2026-10-05T18:59:00-06:00,CTA-0001,29490.84,MXN,012993243606238585,destinatario_883@banco.com.mx,Servicios,LIQUIDADA,App iOS,destinatario_883@banco.com.mx,VALIDO,False,False,29490.84,False
+SPEI-2026-00238,1789813200,CTA-0033,22853.94,MXN,012598306437672415,SIN_CORREO,Nómina,LIQUIDADA,App iOS,correo@@sinformato,INVALIDO,True,False,22853.94,False
+SPEI-2026-00239,1789726320,CTA-0046,7620.39,MXN,012644291149386844,destinatario_153@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_153@banco.com.mx,VALIDO,False,False,7620.39,False
+SPEI-2026-00240,1792180740,CTA-0040,22099.84,MXN,012493914791726645,destinatario_473@banco.com.mx,Servicios,DEVUELTA,API Empresarial,destinatario_473@banco.com.mx,VALIDO,False,False,22099.84,False
+SPEI-2026-00241,2026-10-10T23:43:00-06:00,CTA-0039,6857.26,MXN,012281806619931297,SIN_CORREO,Préstamo,liquidada,API Empresarial,,NULO,True,False,6857.26,False
+SPEI-2026-00242,1789331940,CTA-0024,4495.09,MXN,12345,destinatario_177@banco.com.mx,Pago Renta,RECHAZADA,Web Banking,destinatario_177@banco.com.mx,VALIDO,False,False,4495.09,False
+SPEI-2026-00243,1790495280,CTA-0016,22436.86,MXN,012177958139750739,SIN_CORREO,Nómina,DEVUELTA,App iOS,correo@@sinformato,INVALIDO,True,False,22436.86,False
+SPEI-2026-00244,2026-09-09T12:22:00-06:00,CTA-7033,23446.39,MXN,012726347379487720,destinatario_444@banco.com.mx,Nómina,liquidada,Web Banking,destinatario_444@banco.com.mx,VALIDO,False,False,23446.39,False
+SPEI-2026-00245,2026-10-16T06:22:00-06:00,CTA-0033,6581.84,USD,012532800642422797,destinatario_512@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_512@banco.com.mx,VALIDO,False,False,6581.84,False
+SPEI-2026-00246,1789876380,CTA-0025,30687.04,USD,012840168109241663,destinatario_606@banco.com.mx,Préstamo,liquidada,App Android,destinatario_606@banco.com.mx,VALIDO,False,False,30687.04,False
+SPEI-2026-00247,2026-09-22T08:54:00-06:00,CTA-0035,34598.12,MXN,012875976184007917,destinatario_231@banco.com.mx,Transferencia,liquidada,App iOS,destinatario_231@banco.com.mx,VALIDO,False,False,34598.12,False
+SPEI-2026-00248,2026-09-04T02:19:00-06:00,CTA-0043,660.51,MXN,012415028712584221,destinatario_124@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_124@banco.com.mx,VALIDO,False,False,660.51,False
+SPEI-2026-00249,2026-09-13T23:03:00-06:00,CTA-0042,6975.25,MXN,012344400430644501,destinatario_530@banco.com.mx,Transferencia,liquidada,App iOS,destinatario_530@banco.com.mx,VALIDO,False,False,6975.25,False
+SPEI-2026-00250,2026-09-04T23:02:00-06:00,CTA-0004,20851.84,MXN,12345,destinatario_666@banco.com.mx,Préstamo,PENDIENTE,App iOS,destinatario_666@banco.com.mx,VALIDO,False,False,20851.84,False
+SPEI-2026-00251,2026-09-15T10:44:00-06:00,CTA-0042,19054.24,USD,012156941314660134,destinatario_874@banco.com.mx,Nómina,LIQUIDADA,Web Banking,destinatario_874@banco.com.mx,VALIDO,False,False,19054.24,False
+SPEI-2026-00252,1790710020,CTA-0041,13817.09,MXN,012859282087319208,SIN_CORREO,Comida,LIQUIDADA,Web Banking,correo@@sinformato,INVALIDO,True,False,13817.09,False
+SPEI-2026-00253,2026-10-07T09:49:00-06:00,CTA-0049,9012.39,MXN,012908179320417599,destinatario_103@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_103@banco.com.mx,VALIDO,False,False,9012.39,False
+SPEI-2026-00254,1792041300,CTA-0014,17426.95,MXN,012206580212633228,destinatario_558@banco.com.mx,Pago Renta,RECHAZADA,App Android,destinatario_558@banco.com.mx,VALIDO,False,False,17426.95,False
+SPEI-2026-00255,2026-09-15T15:26:00-06:00,CTA-0039,1055.92,MXN,012639234978568551,destinatario_515@banco.com.mx,Pago Renta,PENDIENTE,API Empresarial,destinatario_515@banco.com.mx,VALIDO,False,False,1055.92,False
+SPEI-2026-00256,2026-10-13T16:34:00-06:00,CTA-0009,32442.95,MXN,12345,destinatario_638@banco.com.mx,Transferencia,DEVUELTA,App Android,destinatario_638@banco.com.mx,VALIDO,False,False,32442.95,False
+SPEI-2026-00257,1789258200,CTA-0026,15562.67,MXN,012824605854704729,SIN_CORREO,Servicios,RECHAZADA,App Android,invalido.com,INVALIDO,True,False,15562.67,False
+SPEI-2026-00258,2026-10-09T21:57:00-06:00,CTA-0042,73.62,MXN,012736807576804720,destinatario_697@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_697@banco.com.mx,VALIDO,False,False,73.62,False
+SPEI-2026-00259,2026-09-30T04:27:00-06:00,CTA-0031,17385.39,MXN,012727176516988206,destinatario_662@banco.com.mx,Transferencia,PENDIENTE,App iOS,destinatario_662@banco.com.mx,VALIDO,False,False,17385.39,False
+SPEI-2026-00260,2026-10-16T09:07:00-06:00,CTA-0005,33155.5,USD,012743627428586149,destinatario_594@banco.com.mx,Nómina,PENDIENTE,Web Banking,destinatario_594@banco.com.mx,VALIDO,False,False,33155.5,False
+SPEI-2026-00261,2026-09-06T17:34:00-06:00,CTA-0023,29460.9,MXN,12345,SIN_CORREO,Comida,liquidada,Web Banking,,NULO,True,False,29460.9,False
+SPEI-2026-00262,2026-10-11T05:33:00-06:00,CTA-0046,31120.33,MXN,012362240508814319,destinatario_574@banco.com.mx,Nómina,PENDIENTE,App Android,destinatario_574@banco.com.mx,VALIDO,False,False,31120.33,False
+SPEI-2026-00263,1789058400,CTA-7104,13730.3,MXN,012949194798922561,destinatario_605@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_605@banco.com.mx,VALIDO,False,False,13730.3,False
+SPEI-2026-00264,1789134840,CTA-0012,28738.35,MXN,12345,destinatario_116@banco.com.mx,Servicios,liquidada,App iOS,destinatario_116@banco.com.mx,VALIDO,False,False,28738.35,False
+SPEI-2026-00265,2026-09-12T12:41:00-06:00,CTA-0017,24576.13,USD,012992395184456858,destinatario_472@banco.com.mx,Préstamo,LIQUIDADA,Web Banking,destinatario_472@banco.com.mx,VALIDO,False,False,24576.13,False
+SPEI-2026-00266,1788749280,CTA-0045,23233.92,MXN,012658491383593351,destinatario_517@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_517@banco.com.mx,VALIDO,False,False,23233.92,False
+SPEI-2026-00267,2026-10-12T09:16:00-06:00,CTA-0024,11594.21,MXN,012718088298279967,destinatario_489@banco.com.mx,Transferencia,DEVUELTA,Web Banking,destinatario_489@banco.com.mx,VALIDO,False,False,11594.21,False
+SPEI-2026-00268,2026-09-13T21:47:00-06:00,CTA-0033,27539.88,MXN,012837365797214125,destinatario_976@banco.com.mx,Servicios,liquidada,API Empresarial,destinatario_976@banco.com.mx,VALIDO,False,False,27539.88,False
+SPEI-2026-00269,1790621580,CTA-0014,5441.3,MXN,012690563865480705,destinatario_930@banco.com.mx,Comida,PENDIENTE,Web Banking,destinatario_930@banco.com.mx,VALIDO,False,False,5441.3,False
+SPEI-2026-00270,2026-10-12T13:49:00-06:00,CTA-0050,23008.21,MXN,012920557691197954,destinatario_407@banco.com.mx,Comida,RECHAZADA,App iOS,destinatario_407@banco.com.mx,VALIDO,False,False,23008.21,False
+SPEI-2026-00271,1789923060,CTA-0049,1164.24,MXN,012925076811927498,destinatario_375@banco.com.mx,Pago Renta,DEVUELTA,App Android,destinatario_375@banco.com.mx,VALIDO,False,False,1164.24,False
+SPEI-2026-00272,1791549360,CTA-0049,7993.31,MXN,012454358812034838,destinatario_245@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_245@banco.com.mx,VALIDO,False,False,7993.31,False
+SPEI-2026-00273,2026-09-05T13:08:00-06:00,CTA-0002,3892.36,MXN,012105478815012315,destinatario_235@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_235@banco.com.mx,VALIDO,False,False,3892.36,False
+SPEI-2026-00274,1789906860,CTA-0007,31814.51,USD,012870730473959504,destinatario_890@banco.com.mx,Nómina,DEVUELTA,Web Banking,destinatario_890@banco.com.mx,VALIDO,False,False,31814.51,False
+SPEI-2026-00275,1788772140,CTA-0047,1070.28,MXN,012267745377410386,destinatario_270@banco.com.mx,Transferencia,DEVUELTA,App Android,destinatario_270@banco.com.mx,VALIDO,False,False,1070.28,False
+SPEI-2026-00276,2026-09-08T22:03:00-06:00,CTA-0023,18522.11,MXN,012485307067608224,destinatario_793@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_793@banco.com.mx,VALIDO,False,False,18522.11,False
+SPEI-2026-00277,2026-09-06T18:14:00-06:00,CTA-0041,23311.4,USD,012950954623305653,destinatario_452@banco.com.mx,Transferencia,DEVUELTA,App iOS,destinatario_452@banco.com.mx,VALIDO,False,False,23311.4,False
+SPEI-2026-00278,2026-09-09T15:11:00-06:00,CTA-0027,15974.18,USD,012851873052969763,destinatario_356@banco.com.mx,Servicios,RECHAZADA,API Empresarial,destinatario_356@banco.com.mx,VALIDO,False,False,15974.18,False
+SPEI-2026-00279,2026-09-11T13:16:00-06:00,CTA-0049,14879.81,USD,012982186178260078,destinatario_638@banco.com.mx,Servicios,liquidada,App iOS,destinatario_638@banco.com.mx,VALIDO,False,False,14879.81,False
+SPEI-2026-00280,1790640840,CTA-0004,8455.44,MXN,012478333351360063,destinatario_340@banco.com.mx,Servicios,DEVUELTA,App iOS,destinatario_340@banco.com.mx,VALIDO,False,False,8455.44,False
+SPEI-2026-00281,2026-10-16T10:46:00-06:00,CTA-0003,5042.21,MXN,012596199370323253,destinatario_793@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_793@banco.com.mx,VALIDO,False,False,5042.21,False
+SPEI-2026-00282,2026-10-04T17:33:00-06:00,CTA-0015,12078.26,MXN,012164382213691431,destinatario_773@banco.com.mx,Comida,liquidada,API Empresarial,destinatario_773@banco.com.mx,VALIDO,False,False,12078.26,False
+SPEI-2026-00283,1791974100,CTA-0003,3791.99,MXN,012597156943213701,destinatario_582@banco.com.mx,Nómina,PENDIENTE,App iOS,destinatario_582@banco.com.mx,VALIDO,False,False,3791.99,False
+SPEI-2026-00284,2026-09-19T18:01:00-06:00,CTA-0022,6833.18,MXN,012436818408720002,destinatario_971@banco.com.mx,Comida,RECHAZADA,App Android,destinatario_971@banco.com.mx,VALIDO,False,False,6833.18,False
+SPEI-2026-00285,2026-09-03T21:41:00-06:00,CTA-0006,20504.69,MXN,012117786836939772,destinatario_794@banco.com.mx,Transferencia,PENDIENTE,App iOS,destinatario_794@banco.com.mx,VALIDO,False,False,20504.69,False
+SPEI-2026-00286,2026-10-09T04:24:00-06:00,CTA-0030,28320.98,MXN,012225587030876852,destinatario_318@banco.com.mx,Nómina,PENDIENTE,App iOS,destinatario_318@banco.com.mx,VALIDO,False,False,28320.98,False
+SPEI-2026-00287,2026-10-03T15:14:00-06:00,CTA-0047,3473.36,USD,012985910343582834,destinatario_506@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_506@banco.com.mx,VALIDO,False,False,3473.36,False
+SPEI-2026-00288,2026-09-02T11:08:00-06:00,CTA-0008,17081.97,MXN,012933711541619184,destinatario_399@banco.com.mx,Transferencia,LIQUIDADA,Web Banking,destinatario_399@banco.com.mx,VALIDO,False,False,17081.97,False
+SPEI-2026-00289,1789654800,CTA-0004,6256.48,MXN,012686305156290124,destinatario_761@banco.com.mx,Servicios,PENDIENTE,App iOS,destinatario_761@banco.com.mx,VALIDO,False,False,6256.48,False
+SPEI-2026-00290,2026-09-20T20:22:00-06:00,CTA-0048,11101.48,USD,012830227065782897,destinatario_879@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_879@banco.com.mx,VALIDO,False,False,11101.48,False
+SPEI-2026-00291,2026-10-15T14:43:00-06:00,CTA-0044,18799.61,MXN,012668565802276151,destinatario_345@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_345@banco.com.mx,VALIDO,False,False,18799.61,False
+SPEI-2026-00292,1788537960,CTA-0005,2150.72,MXN,012364609063365612,destinatario_263@banco.com.mx,Comida,liquidada,Web Banking,destinatario_263@banco.com.mx,VALIDO,False,False,2150.72,False
+SPEI-2026-00293,1788479220,CTA-0012,30857.86,MXN,012817396031355219,destinatario_635@banco.com.mx,Servicios,LIQUIDADA,App Android,destinatario_635@banco.com.mx,VALIDO,False,False,30857.86,False
+SPEI-2026-00294,2026-10-13T21:05:00-06:00,CTA-0044,34662.98,MXN,012647293285867826,SIN_CORREO,Nómina,LIQUIDADA,App iOS,,NULO,True,False,34662.98,False
+SPEI-2026-00295,2026-09-06T08:44:00-06:00,CTA-7132,33830.0,MXN,012402860655872332,destinatario_567@banco.com.mx,Pago Renta,PENDIENTE,Web Banking,destinatario_567@banco.com.mx,VALIDO,False,False,33830.0,False
+SPEI-2026-00296,2026-09-30T00:33:00-06:00,CTA-0014,30881.23,MXN,012823486375779441,destinatario_182@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_182@banco.com.mx,VALIDO,False,False,30881.23,False
+SPEI-2026-00297,2026-10-10T12:22:00-06:00,CTA-0010,21021.39,MXN,012926817480406121,SIN_CORREO,Pago Renta,PENDIENTE,API Empresarial,,VACIO,True,False,21021.39,False
+SPEI-2026-00298,2026-09-16T18:22:00-06:00,CTA-0028,14090.29,USD,012519120197101184,destinatario_894@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_894@banco.com.mx,VALIDO,False,False,14090.29,False
+SPEI-2026-00299,2026-10-01T23:18:00-06:00,CTA-0034,25543.88,USD,012851216789787291,destinatario_771@banco.com.mx,Pago Renta,RECHAZADA,Web Banking,destinatario_771@banco.com.mx,VALIDO,False,False,25543.88,False
+SPEI-2026-00300,1789248420,CTA-0025,10425.15,MXN,012977227382490023,destinatario_173@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_173@banco.com.mx,VALIDO,False,False,10425.15,False
+SPEI-2026-00301,2026-10-03T07:07:00-06:00,CTA-0019,25812.41,MXN,012537185795883682,destinatario_525@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_525@banco.com.mx,VALIDO,False,False,25812.41,False
+SPEI-2026-00302,2026-09-02T06:24:00-06:00,CTA-0031,8134.86,MXN,012779312140486741,destinatario_654@banco.com.mx,Nómina,DEVUELTA,App Android,destinatario_654@banco.com.mx,VALIDO,False,False,8134.86,False
+SPEI-2026-00303,2026-09-23T18:11:00-06:00,CTA-0006,33425.39,USD,012288775167904535,destinatario_708@banco.com.mx,Pago Renta,DEVUELTA,Web Banking,destinatario_708@banco.com.mx,VALIDO,False,False,33425.39,False
+SPEI-2026-00304,1788595080,CTA-0018,32785.62,MXN,012244431891829788,SIN_CORREO,Préstamo,DEVUELTA,App iOS,,VACIO,True,False,32785.62,False
+SPEI-2026-00305,2026-09-06T17:07:00-06:00,CTA-0002,34612.1,MXN,012476799544431488,destinatario_154@banco.com.mx,Comida,PENDIENTE,Web Banking,destinatario_154@banco.com.mx,VALIDO,False,False,34612.1,False
+SPEI-2026-00306,2026-09-19T18:39:00-06:00,CTA-0031,11084.55,MXN,012224275412311430,destinatario_238@banco.com.mx,Servicios,RECHAZADA,API Empresarial,destinatario_238@banco.com.mx,VALIDO,False,False,11084.55,False
+SPEI-2026-00307,2026-09-07T17:39:00-06:00,CTA-0048,32919.98,USD,012452838893010985,SIN_CORREO,Nómina,LIQUIDADA,API Empresarial,invalido.com,INVALIDO,True,False,32919.98,False
+SPEI-2026-00308,2026-09-11T19:29:00-06:00,CTA-0007,12366.35,MXN,012216369623828469,destinatario_862@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_862@banco.com.mx,VALIDO,False,False,12366.35,False
+SPEI-2026-00309,2026-10-03T02:05:00-06:00,CTA-0036,18418.17,MXN,12345,destinatario_704@banco.com.mx,Comida,liquidada,App iOS,destinatario_704@banco.com.mx,VALIDO,False,False,18418.17,False
+SPEI-2026-00310,1791786660,CTA-0014,12214.66,MXN,012349728249275955,destinatario_812@banco.com.mx,Transferencia,liquidada,API Empresarial,destinatario_812@banco.com.mx,VALIDO,False,False,12214.66,False
+SPEI-2026-00311,2026-09-05T15:39:00-06:00,CTA-0016,20264.93,MXN,012373224586265814,destinatario_146@banco.com.mx,Nómina,PENDIENTE,Web Banking,destinatario_146@banco.com.mx,VALIDO,False,False,20264.93,False
+SPEI-2026-00312,1791131520,CTA-0024,31638.0,MXN,012759775339957579,destinatario_340@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_340@banco.com.mx,VALIDO,False,False,31638.0,False
+SPEI-2026-00313,1789436400,CTA-0047,27212.99,MXN,012178517466782594,destinatario_208@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_208@banco.com.mx,VALIDO,False,False,27212.99,False
+SPEI-2026-00314,2026-10-11T23:53:00-06:00,CTA-0005,8929.42,MXN,012895634884180235,destinatario_531@banco.com.mx,Pago Renta,LIQUIDADA,API Empresarial,destinatario_531@banco.com.mx,VALIDO,False,False,8929.42,False
+SPEI-2026-00315,1789665360,CTA-0039,27050.98,MXN,012345025262639436,destinatario_339@banco.com.mx,Comida,liquidada,App iOS,destinatario_339@banco.com.mx,VALIDO,False,False,27050.98,False
+SPEI-2026-00316,2026-10-09T12:33:00-06:00,CTA-0031,33529.76,MXN,012444360434449640,destinatario_701@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_701@banco.com.mx,VALIDO,False,False,33529.76,False
+SPEI-2026-00317,2026-09-03T17:47:00-06:00,CTA-0018,24606.51,MXN,012469995060918831,destinatario_751@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_751@banco.com.mx,VALIDO,False,False,24606.51,False
+SPEI-2026-00318,2026-09-14T06:39:00-06:00,CTA-0005,15876.1,MXN,012354861885579549,destinatario_239@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_239@banco.com.mx,VALIDO,False,False,15876.1,False
+SPEI-2026-00319,2026-10-12T05:47:00-06:00,CTA-0011,24107.67,MXN,012169053665470236,destinatario_910@banco.com.mx,Nómina,liquidada,App Android,destinatario_910@banco.com.mx,VALIDO,False,False,24107.67,False
+SPEI-2026-00320,2026-09-01T03:57:00-06:00,CTA-0020,10884.64,MXN,012404838967469141,destinatario_403@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_403@banco.com.mx,VALIDO,False,False,10884.64,False
+SPEI-2026-00321,2026-09-24T00:44:00-06:00,CTA-0016,12318.75,MXN,012679561752357738,destinatario_193@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_193@banco.com.mx,VALIDO,False,False,12318.75,False
+SPEI-2026-00322,1791677880,CTA-0001,6774.57,MXN,012143832148972949,SIN_CORREO,Transferencia,liquidada,Web Banking,invalido.com,INVALIDO,True,False,6774.57,False
+SPEI-2026-00323,1792031940,CTA-0006,6308.97,MXN,12345,destinatario_783@banco.com.mx,Nómina,RECHAZADA,API Empresarial,destinatario_783@banco.com.mx,VALIDO,False,False,6308.97,False
+SPEI-2026-00324,2026-09-12T23:36:00-06:00,CTA-0018,22214.36,USD,012587269973678111,destinatario_591@banco.com.mx,Servicios,PENDIENTE,App Android,destinatario_591@banco.com.mx,VALIDO,False,False,22214.36,False
+SPEI-2026-00325,2026-09-23T07:14:00-06:00,CTA-0037,8789.19,USD,012949487762141754,destinatario_740@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_740@banco.com.mx,VALIDO,False,False,8789.19,False
+SPEI-2026-00326,2026-09-09T08:41:00-06:00,CTA-0020,126.91,USD,012404170390586350,destinatario_281@banco.com.mx,Nómina,RECHAZADA,App Android,destinatario_281@banco.com.mx,VALIDO,False,False,126.91,False
+SPEI-2026-00327,1789420980,CTA-0017,18462.01,MXN,012671651717290083,destinatario_726@banco.com.mx,Préstamo,RECHAZADA,App Android,destinatario_726@banco.com.mx,VALIDO,False,False,18462.01,False
+SPEI-2026-00328,2026-10-06T05:24:00-06:00,CTA-0047,19429.25,MXN,012124441941037232,destinatario_560@banco.com.mx,Préstamo,liquidada,Web Banking,destinatario_560@banco.com.mx,VALIDO,False,False,19429.25,False
+SPEI-2026-00329,2026-10-11T00:15:00-06:00,CTA-0031,21196.47,MXN,012776596174127864,destinatario_390@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_390@banco.com.mx,VALIDO,False,False,21196.47,False
+SPEI-2026-00330,1788910380,CTA-0030,20737.53,USD,012338991115842971,destinatario_380@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_380@banco.com.mx,VALIDO,False,False,20737.53,False
+SPEI-2026-00331,2026-09-28T13:28:00-06:00,CTA-0034,50667.5675,MXN,12345,destinatario_817@banco.com.mx,Servicios,PENDIENTE,App iOS,destinatario_817@banco.com.mx,VALIDO,False,False,1361187.0,True
+SPEI-2026-00332,1791665880,CTA-0017,26567.18,USD,012905950403033129,destinatario_366@banco.com.mx,Servicios,LIQUIDADA,Web Banking,destinatario_366@banco.com.mx,VALIDO,False,False,26567.18,False
+SPEI-2026-00333,2026-09-27T13:46:00-06:00,CTA-0023,2726.25,MXN,012207999899971772,destinatario_532@banco.com.mx,Transferencia,RECHAZADA,Web Banking,destinatario_532@banco.com.mx,VALIDO,False,False,2726.25,False
+SPEI-2026-00334,1791976380,CTA-0047,33796.01,MXN,012682228238329313,destinatario_755@banco.com.mx,Préstamo,RECHAZADA,App iOS,destinatario_755@banco.com.mx,VALIDO,False,False,33796.01,False
+SPEI-2026-00335,2026-09-27T22:36:00-06:00,CTA-0027,12043.29,MXN,012397567794829759,destinatario_944@banco.com.mx,Comida,DEVUELTA,App iOS,destinatario_944@banco.com.mx,VALIDO,False,False,12043.29,False
+SPEI-2026-00336,2026-10-05T18:10:00-06:00,CTA-0045,4396.79,MXN,012868416302066800,destinatario_964@banco.com.mx,Comida,RECHAZADA,API Empresarial,destinatario_964@banco.com.mx,VALIDO,False,False,4396.79,False
+SPEI-2026-00337,2026-09-25T09:32:00-06:00,CTA-0012,14423.96,USD,012375275504823666,destinatario_629@banco.com.mx,Servicios,PENDIENTE,App iOS,destinatario_629@banco.com.mx,VALIDO,False,False,14423.96,False
+SPEI-2026-00338,1790029320,CTA-0013,3006.08,MXN,012718425637687982,destinatario_970@banco.com.mx,Comida,RECHAZADA,App iOS,destinatario_970@banco.com.mx,VALIDO,False,False,3006.08,False
+SPEI-2026-00339,2026-10-12T06:00:00-06:00,CTA-0040,17654.84,MXN,012617537072588609,destinatario_989@banco.com.mx,Servicios,DEVUELTA,App iOS,destinatario_989@banco.com.mx,VALIDO,False,False,17654.84,False
+SPEI-2026-00340,1790017740,CTA-0025,14815.05,USD,012770060548816544,destinatario_796@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_796@banco.com.mx,VALIDO,False,False,14815.05,False
+SPEI-2026-00341,2026-09-16T07:06:00-06:00,CTA-0046,5311.35,MXN,012636802573818729,destinatario_550@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_550@banco.com.mx,VALIDO,False,False,5311.35,False
+SPEI-2026-00342,2026-09-29T09:17:00-06:00,CTA-0008,31020.66,MXN,012375850236533554,destinatario_523@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_523@banco.com.mx,VALIDO,False,False,31020.66,False
+SPEI-2026-00343,2026-10-10T17:58:00-06:00,CTA-0033,17381.63,MXN,012406938176840560,destinatario_891@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_891@banco.com.mx,VALIDO,False,False,17381.63,False
+SPEI-2026-00344,2026-09-22T04:37:00-06:00,CTA-0046,26259.16,USD,012982717798705908,destinatario_999@banco.com.mx,Servicios,DEVUELTA,API Empresarial,destinatario_999@banco.com.mx,VALIDO,False,False,26259.16,False
+SPEI-2026-00345,1788360900,CTA-0019,16826.65,MXN,012494889795042799,destinatario_182@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_182@banco.com.mx,VALIDO,False,False,16826.65,False
+SPEI-2026-00346,1789440540,CTA-0050,2083.7,MXN,012137717279551448,SIN_CORREO,Préstamo,DEVUELTA,Web Banking,,NULO,True,False,2083.7,False
+SPEI-2026-00347,2026-09-16T23:18:00-06:00,CTA-0010,18410.41,MXN,012511468272229892,destinatario_441@banco.com.mx,Nómina,liquidada,App Android,destinatario_441@banco.com.mx,VALIDO,False,False,18410.41,False
+SPEI-2026-00348,2026-09-03T20:43:00-06:00,CTA-0028,521.08,MXN,012929635513558243,destinatario_366@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_366@banco.com.mx,VALIDO,False,False,521.08,False
+SPEI-2026-00349,2026-10-13T11:52:00-06:00,CTA-0049,24145.75,USD,012197685081279993,destinatario_681@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_681@banco.com.mx,VALIDO,False,False,24145.75,False
+SPEI-2026-00350,1789756020,CTA-0029,16489.91,MXN,012829482002237182,destinatario_195@banco.com.mx,Servicios,LIQUIDADA,Web Banking,destinatario_195@banco.com.mx,VALIDO,False,False,16489.91,False
+SPEI-2026-00351,2026-10-08T13:25:00-06:00,CTA-0047,29194.59,MXN,012933584500634890,destinatario_250@banco.com.mx,Nómina,RECHAZADA,API Empresarial,destinatario_250@banco.com.mx,VALIDO,False,False,29194.59,False
+SPEI-2026-00352,2026-10-08T11:01:00-06:00,CTA-0039,9704.11,MXN,012921897842164531,destinatario_338@banco.com.mx,Transferencia,liquidada,API Empresarial,destinatario_338@banco.com.mx,VALIDO,False,False,9704.11,False
+SPEI-2026-00353,2026-09-02T10:17:00-06:00,CTA-0019,21828.8,MXN,012175696026419678,SIN_CORREO,Pago Renta,PENDIENTE,API Empresarial,correo@@sinformato,INVALIDO,True,False,21828.8,False
+SPEI-2026-00354,2026-10-02T09:28:00-06:00,CTA-0020,20697.79,MXN,012482335842678255,destinatario_564@banco.com.mx,Servicios,RECHAZADA,Web Banking,destinatario_564@banco.com.mx,VALIDO,False,False,20697.79,False
+SPEI-2026-00355,1789317480,CTA-0001,32554.31,USD,012354376834069500,destinatario_788@banco.com.mx,Servicios,liquidada,Web Banking,destinatario_788@banco.com.mx,VALIDO,False,False,32554.31,False
+SPEI-2026-00356,2026-10-14T22:48:00-06:00,CTA-0035,32402.21,MXN,012201525312201253,destinatario_590@banco.com.mx,Préstamo,LIQUIDADA,App Android,destinatario_590@banco.com.mx,VALIDO,False,False,32402.21,False
+SPEI-2026-00357,1791047520,CTA-7363,14673.36,MXN,012800311386454207,SIN_CORREO,Comida,RECHAZADA,App Android,invalido.com,INVALIDO,True,False,14673.36,False
+SPEI-2026-00358,2026-10-06T19:20:00-06:00,CTA-0032,21714.69,MXN,012862704098592352,destinatario_635@banco.com.mx,Pago Renta,liquidada,API Empresarial,destinatario_635@banco.com.mx,VALIDO,False,False,21714.69,False
+SPEI-2026-00359,2026-09-08T12:29:00-06:00,CTA-0034,7568.87,MXN,012450208284698414,destinatario_974@banco.com.mx,Comida,LIQUIDADA,App iOS,destinatario_974@banco.com.mx,VALIDO,False,False,7568.87,False
+SPEI-2026-00360,1791190320,CTA-0013,9106.09,MXN,012276750422891401,destinatario_936@banco.com.mx,Comida,RECHAZADA,API Empresarial,destinatario_936@banco.com.mx,VALIDO,False,False,9106.09,False
+SPEI-2026-00361,2026-09-04T18:47:00-06:00,CTA-0016,18049.61,USD,012198131370457424,destinatario_297@banco.com.mx,Servicios,LIQUIDADA,App Android,destinatario_297@banco.com.mx,VALIDO,False,False,18049.61,False
+SPEI-2026-00362,1791825780,CTA-0022,2243.87,USD,012111554736912385,SIN_CORREO,Comida,LIQUIDADA,App iOS,,NULO,True,False,2243.87,False
+SPEI-2026-00363,2026-09-27T11:39:00-06:00,CTA-0040,10984.53,MXN,012367264786036589,destinatario_859@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_859@banco.com.mx,VALIDO,False,False,10984.53,False
+SPEI-2026-00364,1789263420,CTA-0036,21504.92,MXN,012569470226775174,destinatario_373@banco.com.mx,Pago Renta,PENDIENTE,App iOS,destinatario_373@banco.com.mx,VALIDO,False,False,21504.92,False
+SPEI-2026-00365,2026-09-07T22:47:00-06:00,CTA-7995,24166.26,MXN,012890741488891552,destinatario_160@banco.com.mx,Transferencia,liquidada,App Android,destinatario_160@banco.com.mx,VALIDO,False,False,24166.26,False
+SPEI-2026-00366,1788892440,CTA-0009,32380.68,MXN,012500640988477543,destinatario_185@banco.com.mx,Servicios,liquidada,API Empresarial,destinatario_185@banco.com.mx,VALIDO,False,False,32380.68,False
+SPEI-2026-00367,2026-09-25T04:01:00-06:00,CTA-0037,17405.1,MXN,012488728947796835,SIN_CORREO,Nómina,RECHAZADA,API Empresarial,correo@@sinformato,INVALIDO,True,False,17405.1,False
+SPEI-2026-00368,1791340140,CTA-0009,5144.57,MXN,012729213857043476,destinatario_760@banco.com.mx,Servicios,liquidada,Web Banking,destinatario_760@banco.com.mx,VALIDO,False,False,5144.57,False
+SPEI-2026-00369,2026-09-30T03:09:00-06:00,CTA-0036,11746.97,USD,12345,SIN_CORREO,Servicios,LIQUIDADA,Web Banking,correo@@sinformato,INVALIDO,True,False,11746.97,False
+SPEI-2026-00370,2026-09-12T08:00:00-06:00,CTA-0012,10550.23,MXN,012879787386617777,destinatario_561@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_561@banco.com.mx,VALIDO,False,False,10550.23,False
+SPEI-2026-00371,2026-10-11T16:46:00-06:00,CTA-0006,13755.38,MXN,012805943713634420,SIN_CORREO,Servicios,liquidada,App Android,,VACIO,True,False,13755.38,False
+SPEI-2026-00372,2026-10-04T16:59:00-06:00,CTA-0032,13363.05,MXN,012183392105739583,destinatario_728@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_728@banco.com.mx,VALIDO,False,False,13363.05,False
+SPEI-2026-00373,1791442560,CTA-0009,25455.71,USD,012411980364705336,SIN_CORREO,Servicios,LIQUIDADA,App iOS,,NULO,True,False,25455.71,False
+SPEI-2026-00374,2026-09-14T10:07:00-06:00,CTA-0002,29996.48,MXN,012921740298654886,destinatario_916@banco.com.mx,Nómina,PENDIENTE,Web Banking,destinatario_916@banco.com.mx,VALIDO,False,False,29996.48,False
+SPEI-2026-00375,2026-10-16T03:16:00-06:00,CTA-0038,1719.9,MXN,012369507311449679,destinatario_415@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_415@banco.com.mx,VALIDO,False,False,1719.9,False
+SPEI-2026-00376,1791391560,CTA-0004,50667.5675,MXN,012954713569527990,destinatario_669@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_669@banco.com.mx,VALIDO,False,False,2072223.0,True
+SPEI-2026-00377,1790397720,CTA-0022,12896.22,MXN,012278850538110220,destinatario_778@banco.com.mx,Nómina,PENDIENTE,App iOS,destinatario_778@banco.com.mx,VALIDO,False,False,12896.22,False
+SPEI-2026-00378,1791115740,CTA-0008,15315.8,MXN,012435547444558980,destinatario_451@banco.com.mx,Servicios,DEVUELTA,API Empresarial,destinatario_451@banco.com.mx,VALIDO,False,False,15315.8,False
+SPEI-2026-00379,1788398700,CTA-0033,7697.44,MXN,012634738782179171,destinatario_851@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_851@banco.com.mx,VALIDO,False,False,7697.44,False
+SPEI-2026-00380,2026-10-01T10:57:00-06:00,CTA-0006,11574.87,MXN,012409102304642111,destinatario_615@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_615@banco.com.mx,VALIDO,False,False,11574.87,False
+SPEI-2026-00381,2026-10-16T20:18:00-06:00,CTA-0005,31061.92,MXN,012235449355454385,destinatario_538@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_538@banco.com.mx,VALIDO,False,False,31061.92,False
+SPEI-2026-00382,2026-09-15T08:39:00-06:00,CTA-0022,2564.35,MXN,012225644486745796,destinatario_756@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_756@banco.com.mx,VALIDO,False,False,2564.35,False
+SPEI-2026-00383,2026-09-01T01:36:00-06:00,CTA-0047,17675.87,MXN,012315804000259003,destinatario_955@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_955@banco.com.mx,VALIDO,False,False,17675.87,False
+SPEI-2026-00384,1789222140,CTA-0010,18973.68,MXN,012288470037765433,destinatario_412@banco.com.mx,Servicios,PENDIENTE,App iOS,destinatario_412@banco.com.mx,VALIDO,False,False,18973.68,False
+SPEI-2026-00385,2026-09-17T13:41:00-06:00,CTA-0034,28166.03,MXN,012329663899883268,destinatario_134@banco.com.mx,Préstamo,PENDIENTE,App iOS,destinatario_134@banco.com.mx,VALIDO,False,False,28166.03,False
+SPEI-2026-00386,1789505220,CTA-0022,18468.08,MXN,012489471622466892,destinatario_864@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_864@banco.com.mx,VALIDO,False,False,18468.08,False
+SPEI-2026-00387,2026-09-10T12:02:00-06:00,CTA-0038,29959.93,MXN,012888709038081149,destinatario_944@banco.com.mx,Nómina,LIQUIDADA,Web Banking,destinatario_944@banco.com.mx,VALIDO,False,False,29959.93,False
+SPEI-2026-00388,2026-10-15T09:39:00-06:00,CTA-0026,24196.04,USD,012600404100334972,destinatario_940@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_940@banco.com.mx,VALIDO,False,False,24196.04,False
+SPEI-2026-00389,2026-09-06T11:20:00-06:00,CTA-0011,22732.83,MXN,012858379639548997,destinatario_670@banco.com.mx,Préstamo,RECHAZADA,App Android,destinatario_670@banco.com.mx,VALIDO,False,False,22732.83,False
+SPEI-2026-00390,1790335560,CTA-0011,13008.78,MXN,12345,destinatario_624@banco.com.mx,Comida,PENDIENTE,App iOS,destinatario_624@banco.com.mx,VALIDO,False,False,13008.78,False
+SPEI-2026-00391,2026-09-06T21:50:00-06:00,CTA-0022,32838.64,MXN,012516948444246085,destinatario_166@banco.com.mx,Comida,RECHAZADA,Web Banking,destinatario_166@banco.com.mx,VALIDO,False,False,32838.64,False
+SPEI-2026-00392,1791544860,CTA-0020,32121.97,USD,012955633390164968,destinatario_282@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_282@banco.com.mx,VALIDO,False,False,32121.97,False
+SPEI-2026-00393,2026-09-28T11:24:00-06:00,CTA-0029,50667.5675,MXN,012396475634279820,destinatario_433@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_433@banco.com.mx,VALIDO,False,False,199902.0,True
+SPEI-2026-00394,2026-09-28T17:30:00-06:00,CTA-0050,30100.83,USD,012103009594927003,destinatario_278@banco.com.mx,Préstamo,PENDIENTE,App iOS,destinatario_278@banco.com.mx,VALIDO,False,False,30100.83,False
+SPEI-2026-00395,1789574100,CTA-0045,20801.3,MXN,012238560411480029,destinatario_152@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_152@banco.com.mx,VALIDO,False,False,20801.3,False
+SPEI-2026-00396,1789866960,CTA-0015,31310.37,USD,012496761231679247,destinatario_649@banco.com.mx,Servicios,PENDIENTE,Web Banking,destinatario_649@banco.com.mx,VALIDO,False,False,31310.37,False
+SPEI-2026-00397,2026-09-15T10:17:00-06:00,CTA-0007,17098.54,MXN,012521193049000393,destinatario_646@banco.com.mx,Comida,RECHAZADA,App Android,destinatario_646@banco.com.mx,VALIDO,False,False,17098.54,False
+SPEI-2026-00398,2026-10-05T11:23:00-06:00,CTA-0010,27144.88,USD,012647167426122105,destinatario_904@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_904@banco.com.mx,VALIDO,False,False,27144.88,False
+SPEI-2026-00399,1791833100,CTA-0007,31852.7,MXN,012974477321208939,destinatario_368@banco.com.mx,Nómina,liquidada,App Android,destinatario_368@banco.com.mx,VALIDO,False,False,31852.7,False
+SPEI-2026-00400,1791732480,CTA-0042,3606.58,USD,012813370207554164,destinatario_707@banco.com.mx,Préstamo,DEVUELTA,API Empresarial,destinatario_707@banco.com.mx,VALIDO,False,False,3606.58,False
+SPEI-2026-00401,2026-09-16T09:07:00-06:00,CTA-0045,20038.1,MXN,012519804205611535,destinatario_630@banco.com.mx,Servicios,LIQUIDADA,App iOS,destinatario_630@banco.com.mx,VALIDO,False,False,20038.1,False
+SPEI-2026-00402,1791569160,CTA-0013,21571.33,MXN,12345,SIN_CORREO,Servicios,DEVUELTA,Web Banking,correo@@sinformato,INVALIDO,True,False,21571.33,False
+SPEI-2026-00403,2026-10-05T13:44:00-06:00,CTA-0032,10975.41,MXN,012223669958747349,destinatario_507@banco.com.mx,Préstamo,PENDIENTE,App Android,destinatario_507@banco.com.mx,VALIDO,False,False,10975.41,False
+SPEI-2026-00404,2026-10-08T13:28:00-06:00,CTA-0050,34937.59,MXN,012995748388329728,destinatario_598@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_598@banco.com.mx,VALIDO,False,False,34937.59,False
+SPEI-2026-00405,2026-09-30T04:08:00-06:00,CTA-0004,27279.21,MXN,012219876060276356,destinatario_336@banco.com.mx,Comida,LIQUIDADA,App iOS,destinatario_336@banco.com.mx,VALIDO,False,False,27279.21,False
+SPEI-2026-00406,2026-10-09T14:58:00-06:00,CTA-0004,22252.09,USD,012857026000958287,destinatario_332@banco.com.mx,Préstamo,DEVUELTA,API Empresarial,destinatario_332@banco.com.mx,VALIDO,False,False,22252.09,False
+SPEI-2026-00407,2026-10-15T08:33:00-06:00,CTA-0005,26879.16,USD,012613724964617606,SIN_CORREO,Nómina,RECHAZADA,API Empresarial,correo@@sinformato,INVALIDO,True,False,26879.16,False
+SPEI-2026-00408,1789066320,CTA-0036,29750.54,USD,012921300383514100,destinatario_785@banco.com.mx,Comida,RECHAZADA,App iOS,destinatario_785@banco.com.mx,VALIDO,False,False,29750.54,False
+SPEI-2026-00409,2026-10-04T12:27:00-06:00,CTA-0033,28368.16,USD,012185071131257294,destinatario_300@banco.com.mx,Transferencia,liquidada,Web Banking,destinatario_300@banco.com.mx,VALIDO,False,False,28368.16,False
+SPEI-2026-00410,2026-09-06T03:37:00-06:00,CTA-0025,19887.93,MXN,012543959199320996,destinatario_963@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_963@banco.com.mx,VALIDO,False,False,19887.93,False
+SPEI-2026-00411,1790358240,CTA-0018,28673.07,MXN,012997670058699175,destinatario_178@banco.com.mx,Comida,RECHAZADA,App iOS,destinatario_178@banco.com.mx,VALIDO,False,False,28673.07,False
+SPEI-2026-00412,2026-09-13T16:01:00-06:00,CTA-0029,7252.41,USD,012767784478781365,destinatario_758@banco.com.mx,Transferencia,DEVUELTA,Web Banking,destinatario_758@banco.com.mx,VALIDO,False,False,7252.41,False
+SPEI-2026-00413,1789765500,CTA-0035,5845.15,MXN,012323296396961385,destinatario_367@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_367@banco.com.mx,VALIDO,False,False,5845.15,False
+SPEI-2026-00414,2026-09-11T17:13:00-06:00,CTA-0029,106.6,USD,012627723881838061,destinatario_896@banco.com.mx,Pago Renta,PENDIENTE,App iOS,destinatario_896@banco.com.mx,VALIDO,False,False,106.6,False
+SPEI-2026-00415,1791926820,CTA-0043,27153.01,MXN,012644013453709939,destinatario_858@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_858@banco.com.mx,VALIDO,False,False,27153.01,False
+SPEI-2026-00416,1790935320,CTA-0007,18089.29,MXN,012539025118857777,destinatario_772@banco.com.mx,Nómina,LIQUIDADA,App Android,destinatario_772@banco.com.mx,VALIDO,False,False,18089.29,False
+SPEI-2026-00417,1789152840,CTA-0043,14051.17,MXN,012790036269715299,destinatario_578@banco.com.mx,Pago Renta,RECHAZADA,App Android,destinatario_578@banco.com.mx,VALIDO,False,False,14051.17,False
+SPEI-2026-00418,2026-09-25T08:50:00-06:00,CTA-0002,19781.36,USD,012435931852614440,destinatario_598@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_598@banco.com.mx,VALIDO,False,False,19781.36,False
+SPEI-2026-00419,2026-10-06T02:47:00-06:00,CTA-0008,3539.44,MXN,012623034207820532,destinatario_657@banco.com.mx,Servicios,RECHAZADA,App Android,destinatario_657@banco.com.mx,VALIDO,False,False,3539.44,False
+SPEI-2026-00420,1789547880,CTA-0022,25515.46,MXN,12345,destinatario_449@banco.com.mx,Nómina,LIQUIDADA,API Empresarial,destinatario_449@banco.com.mx,VALIDO,False,False,25515.46,False
+SPEI-2026-00421,2026-09-02T17:45:00-06:00,CTA-0049,50667.5675,MXN,012361102243803152,destinatario_985@banco.com.mx,Préstamo,PENDIENTE,App Android,destinatario_985@banco.com.mx,VALIDO,False,False,1456236.0,True
+SPEI-2026-00422,2026-09-13T21:53:00-06:00,CTA-0020,14318.46,USD,012640448982514929,destinatario_922@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_922@banco.com.mx,VALIDO,False,False,14318.46,False
+SPEI-2026-00423,2026-09-23T03:01:00-06:00,CTA-0046,10683.82,MXN,012197707024476384,SIN_CORREO,Préstamo,PENDIENTE,API Empresarial,invalido.com,INVALIDO,True,False,10683.82,False
+SPEI-2026-00424,2026-09-15T10:51:00-06:00,CTA-0001,3543.82,MXN,012130205213319454,destinatario_183@banco.com.mx,Préstamo,DEVUELTA,API Empresarial,destinatario_183@banco.com.mx,VALIDO,False,False,3543.82,False
+SPEI-2026-00425,1789891680,CTA-0037,13400.44,MXN,012361051587529557,destinatario_501@banco.com.mx,Transferencia,PENDIENTE,Web Banking,destinatario_501@banco.com.mx,VALIDO,False,False,13400.44,False
+SPEI-2026-00426,1790378160,CTA-0029,26750.54,MXN,012110570174966633,destinatario_575@banco.com.mx,Nómina,RECHAZADA,Web Banking,destinatario_575@banco.com.mx,VALIDO,False,False,26750.54,False
+SPEI-2026-00427,2026-10-16T18:51:00-06:00,CTA-0042,23406.96,MXN,012956027665823149,destinatario_181@banco.com.mx,Nómina,liquidada,App Android,destinatario_181@banco.com.mx,VALIDO,False,False,23406.96,False
+SPEI-2026-00428,2026-09-29T10:58:00-06:00,CTA-0027,34301.84,MXN,012440238720638761,destinatario_448@banco.com.mx,Comida,LIQUIDADA,Web Banking,destinatario_448@banco.com.mx,VALIDO,False,False,34301.84,False
+SPEI-2026-00429,1789378440,CTA-0029,732.7,MXN,012612299625137372,destinatario_396@banco.com.mx,Comida,RECHAZADA,Web Banking,destinatario_396@banco.com.mx,VALIDO,False,False,732.7,False
+SPEI-2026-00430,1788858360,CTA-0027,20185.76,MXN,012936748421743569,destinatario_560@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_560@banco.com.mx,VALIDO,False,False,20185.76,False
+SPEI-2026-00431,2026-09-10T05:24:00-06:00,CTA-0030,17766.5,MXN,012111727751670316,SIN_CORREO,Préstamo,DEVUELTA,Web Banking,invalido.com,INVALIDO,True,False,17766.5,False
+SPEI-2026-00432,2026-09-28T12:46:00-06:00,CTA-0001,32279.8,MXN,012345990247591637,destinatario_835@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_835@banco.com.mx,VALIDO,False,False,32279.8,False
+SPEI-2026-00433,2026-09-29T14:56:00-06:00,CTA-7785,16420.14,MXN,012262484652682320,destinatario_310@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_310@banco.com.mx,VALIDO,False,False,16420.14,False
+SPEI-2026-00434,2026-09-29T02:42:00-06:00,CTA-0049,15351.28,USD,012772246365179153,destinatario_466@banco.com.mx,Nómina,LIQUIDADA,API Empresarial,destinatario_466@banco.com.mx,VALIDO,False,False,15351.28,False
+SPEI-2026-00435,1789139520,CTA-0042,32960.34,USD,012763592276162250,destinatario_906@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_906@banco.com.mx,VALIDO,False,False,32960.34,False
+SPEI-2026-00436,2026-10-16T00:53:00-06:00,CTA-7410,19831.66,MXN,012102598099291213,destinatario_824@banco.com.mx,Préstamo,liquidada,App Android,destinatario_824@banco.com.mx,VALIDO,False,False,19831.66,False
+SPEI-2026-00437,1790441340,CTA-0035,4822.08,MXN,012137160265609279,destinatario_593@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_593@banco.com.mx,VALIDO,False,False,4822.08,False
+SPEI-2026-00438,1790082360,CTA-0031,26382.85,MXN,012494133524135339,SIN_CORREO,Nómina,PENDIENTE,App iOS,invalido.com,INVALIDO,True,False,26382.85,False
+SPEI-2026-00439,2026-09-27T09:08:00-06:00,CTA-0029,16814.51,MXN,012712889456433726,destinatario_534@banco.com.mx,Transferencia,liquidada,App iOS,destinatario_534@banco.com.mx,VALIDO,False,False,16814.51,False
+SPEI-2026-00440,1788952020,CTA-0038,16844.73,USD,012730708757764830,destinatario_195@banco.com.mx,Servicios,liquidada,App Android,destinatario_195@banco.com.mx,VALIDO,False,False,16844.73,False
+SPEI-2026-00441,2026-10-07T16:49:00-06:00,CTA-0031,18202.84,MXN,012738817585954430,destinatario_916@banco.com.mx,Servicios,liquidada,App iOS,destinatario_916@banco.com.mx,VALIDO,False,False,18202.84,False
+SPEI-2026-00442,2026-10-07T12:19:00-06:00,CTA-0043,8244.19,MXN,12345,destinatario_654@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_654@banco.com.mx,VALIDO,False,False,8244.19,False
+SPEI-2026-00443,1789922580,CTA-0032,5192.53,MXN,012192625280281047,destinatario_820@banco.com.mx,Servicios,RECHAZADA,Web Banking,destinatario_820@banco.com.mx,VALIDO,False,False,5192.53,False
+SPEI-2026-00444,2026-09-05T12:17:00-06:00,CTA-0018,23066.27,MXN,012556878301716503,destinatario_156@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_156@banco.com.mx,VALIDO,False,False,23066.27,False
+SPEI-2026-00445,2026-09-11T12:43:00-06:00,CTA-0023,9688.33,MXN,012162377520480497,destinatario_335@banco.com.mx,Préstamo,RECHAZADA,App Android,destinatario_335@banco.com.mx,VALIDO,False,False,9688.33,False
+SPEI-2026-00446,1790289060,CTA-0037,19460.91,MXN,012155140620852951,destinatario_824@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_824@banco.com.mx,VALIDO,False,False,19460.91,False
+SPEI-2026-00447,2026-09-15T04:25:00-06:00,CTA-0010,23244.91,MXN,12345,destinatario_820@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_820@banco.com.mx,VALIDO,False,False,23244.91,False
+SPEI-2026-00448,1791582120,CTA-0032,12296.39,MXN,012274219173707134,destinatario_147@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_147@banco.com.mx,VALIDO,False,False,12296.39,False
+SPEI-2026-00449,2026-09-10T18:28:00-06:00,CTA-0046,20158.45,MXN,012669166233388301,destinatario_872@banco.com.mx,Pago Renta,RECHAZADA,Web Banking,destinatario_872@banco.com.mx,VALIDO,False,False,20158.45,False
+SPEI-2026-00450,1788637980,CTA-0008,15554.93,MXN,012986712765973692,destinatario_268@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_268@banco.com.mx,VALIDO,False,False,15554.93,False
+SPEI-2026-00451,2026-09-12T09:35:00-06:00,CTA-0020,20419.69,MXN,012682234699011385,destinatario_233@banco.com.mx,Nómina,LIQUIDADA,App Android,destinatario_233@banco.com.mx,VALIDO,False,False,20419.69,False
+SPEI-2026-00452,1790918880,CTA-0037,15226.8,MXN,012390351606795804,destinatario_591@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_591@banco.com.mx,VALIDO,False,False,15226.8,False
+SPEI-2026-00453,2026-09-20T19:57:00-06:00,CTA-0022,21145.87,MXN,012947446036329859,destinatario_470@banco.com.mx,Préstamo,liquidada,App iOS,destinatario_470@banco.com.mx,VALIDO,False,False,21145.87,False
+SPEI-2026-00454,2026-10-07T01:48:00-06:00,CTA-0040,50667.5675,MXN,012754353174948916,destinatario_403@banco.com.mx,Pago Renta,LIQUIDADA,App iOS,destinatario_403@banco.com.mx,VALIDO,False,False,2806686.0,True
+SPEI-2026-00455,2026-10-09T02:26:00-06:00,CTA-0001,16751.98,MXN,012977310182702972,destinatario_271@banco.com.mx,Nómina,liquidada,Web Banking,destinatario_271@banco.com.mx,VALIDO,False,False,16751.98,False
+SPEI-2026-00456,2026-09-03T07:26:00-06:00,CTA-0010,20860.38,MXN,012864225436409151,destinatario_374@banco.com.mx,Servicios,liquidada,App iOS,destinatario_374@banco.com.mx,VALIDO,False,False,20860.38,False
+SPEI-2026-00457,1790769120,CTA-0008,2350.88,MXN,012114352869996256,destinatario_987@banco.com.mx,Transferencia,LIQUIDADA,Web Banking,destinatario_987@banco.com.mx,VALIDO,False,False,2350.88,False
+SPEI-2026-00458,2026-09-15T06:21:00-06:00,CTA-0040,9587.76,MXN,012817618334433620,destinatario_267@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_267@banco.com.mx,VALIDO,False,False,9587.76,False
+SPEI-2026-00459,2026-10-01T15:51:00-06:00,CTA-0045,8759.41,MXN,012965983223307787,destinatario_908@banco.com.mx,Transferencia,RECHAZADA,API Empresarial,destinatario_908@banco.com.mx,VALIDO,False,False,8759.41,False
+SPEI-2026-00460,1790438400,CTA-0016,50667.5675,MXN,012162601880603957,destinatario_138@banco.com.mx,Servicios,DEVUELTA,App iOS,destinatario_138@banco.com.mx,VALIDO,False,False,3179809.5,True
+SPEI-2026-00461,2026-09-20T09:09:00-06:00,CTA-0042,29479.11,MXN,012159107075101654,destinatario_425@banco.com.mx,Préstamo,liquidada,App Android,destinatario_425@banco.com.mx,VALIDO,False,False,29479.11,False
+SPEI-2026-00462,2026-10-02T19:09:00-06:00,CTA-0040,25728.02,MXN,012352915896207728,destinatario_472@banco.com.mx,Préstamo,liquidada,API Empresarial,destinatario_472@banco.com.mx,VALIDO,False,False,25728.02,False
+SPEI-2026-00463,2026-09-21T06:47:00-06:00,CTA-0018,6453.7,MXN,012728179635268723,destinatario_455@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_455@banco.com.mx,VALIDO,False,False,6453.7,False
+SPEI-2026-00464,1788786900,CTA-0033,9739.34,MXN,012303547306874612,destinatario_958@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_958@banco.com.mx,VALIDO,False,False,9739.34,False
+SPEI-2026-00465,1789855140,CTA-0010,18878.74,MXN,012372159428717337,destinatario_938@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_938@banco.com.mx,VALIDO,False,False,18878.74,False
+SPEI-2026-00466,1789554000,CTA-0009,24819.13,USD,12345,destinatario_465@banco.com.mx,Comida,RECHAZADA,App iOS,destinatario_465@banco.com.mx,VALIDO,False,False,24819.13,False
+SPEI-2026-00467,1791862980,CTA-0010,10728.92,MXN,012519132170408364,destinatario_735@banco.com.mx,Nómina,RECHAZADA,App Android,destinatario_735@banco.com.mx,VALIDO,False,False,10728.92,False
+SPEI-2026-00468,2026-10-02T16:04:00-06:00,CTA-0003,28789.23,MXN,012905578451156772,destinatario_453@banco.com.mx,Transferencia,RECHAZADA,Web Banking,destinatario_453@banco.com.mx,VALIDO,False,False,28789.23,False
+SPEI-2026-00469,2026-10-10T22:55:00-06:00,CTA-0005,17427.57,MXN,012541728503629451,destinatario_466@banco.com.mx,Nómina,liquidada,App Android,destinatario_466@banco.com.mx,VALIDO,False,False,17427.57,False
+SPEI-2026-00470,2026-09-16T00:53:00-06:00,CTA-0027,14397.58,USD,012703987818791112,destinatario_176@banco.com.mx,Transferencia,DEVUELTA,App Android,destinatario_176@banco.com.mx,VALIDO,False,False,14397.58,False
+SPEI-2026-00471,2026-09-01T14:27:00-06:00,CTA-0001,10156.2,MXN,012664046825415023,destinatario_721@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_721@banco.com.mx,VALIDO,False,False,10156.2,False
+SPEI-2026-00472,1789908180,CTA-0005,888.06,MXN,012142720291043222,destinatario_143@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_143@banco.com.mx,VALIDO,False,False,888.06,False
+SPEI-2026-00473,2026-09-14T19:09:00-06:00,CTA-0004,17554.24,MXN,012999874165013517,destinatario_708@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_708@banco.com.mx,VALIDO,False,False,17554.24,False
+SPEI-2026-00474,2026-10-04T03:26:00-06:00,CTA-0036,18771.2,MXN,012151507807118156,destinatario_640@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_640@banco.com.mx,VALIDO,False,False,18771.2,False
+SPEI-2026-00475,1791330480,CTA-0026,50667.5675,MXN,012915150440677183,destinatario_259@banco.com.mx,Comida,LIQUIDADA,Web Banking,destinatario_259@banco.com.mx,VALIDO,False,False,2754598.5,True
+SPEI-2026-00476,2026-09-13T14:13:00-06:00,CTA-0041,16340.55,MXN,12345,destinatario_841@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_841@banco.com.mx,VALIDO,False,False,16340.55,False
+SPEI-2026-00477,2026-10-09T18:40:00-06:00,CTA-0034,22471.94,MXN,012563483683788538,destinatario_390@banco.com.mx,Pago Renta,RECHAZADA,API Empresarial,destinatario_390@banco.com.mx,VALIDO,False,False,22471.94,False
+SPEI-2026-00478,2026-09-03T13:24:00-06:00,CTA-0037,15757.94,MXN,012194575613547632,destinatario_674@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_674@banco.com.mx,VALIDO,False,False,15757.94,False
+SPEI-2026-00479,2026-09-24T12:13:00-06:00,CTA-0039,26279.77,MXN,012762671403934455,destinatario_740@banco.com.mx,Pago Renta,LIQUIDADA,App Android,destinatario_740@banco.com.mx,VALIDO,False,False,26279.77,False
+SPEI-2026-00480,2026-09-28T10:48:00-06:00,CTA-0023,16466.9,MXN,012325252467561124,destinatario_913@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_913@banco.com.mx,VALIDO,False,False,16466.9,False
+SPEI-2026-00481,1790500980,CTA-0011,5421.78,MXN,012255929034972706,destinatario_247@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_247@banco.com.mx,VALIDO,False,False,5421.78,False
+SPEI-2026-00482,2026-09-22T09:37:00-06:00,CTA-7059,26065.93,MXN,012739543001917820,destinatario_677@banco.com.mx,Servicios,DEVUELTA,App Android,destinatario_677@banco.com.mx,VALIDO,False,False,26065.93,False
+SPEI-2026-00483,1788967440,CTA-0031,7116.82,MXN,012969697461559345,destinatario_388@banco.com.mx,Pago Renta,LIQUIDADA,App iOS,destinatario_388@banco.com.mx,VALIDO,False,False,7116.82,False
+SPEI-2026-00484,2026-09-11T19:19:00-06:00,CTA-0021,670.72,MXN,012737702004378750,destinatario_831@banco.com.mx,Servicios,RECHAZADA,Web Banking,destinatario_831@banco.com.mx,VALIDO,False,False,670.72,False
+SPEI-2026-00485,2026-09-10T16:39:00-06:00,CTA-0025,3537.17,USD,012274742191084790,destinatario_486@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_486@banco.com.mx,VALIDO,False,False,3537.17,False
+SPEI-2026-00486,1789542480,CTA-7130,1411.41,MXN,012214937419894239,destinatario_579@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_579@banco.com.mx,VALIDO,False,False,1411.41,False
+SPEI-2026-00487,2026-10-04T20:10:00-06:00,CTA-0007,31792.14,MXN,012898980067765776,destinatario_522@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_522@banco.com.mx,VALIDO,False,False,31792.14,False
+SPEI-2026-00488,2026-10-04T17:18:00-06:00,CTA-0032,21516.69,MXN,012193335722236397,destinatario_490@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_490@banco.com.mx,VALIDO,False,False,21516.69,False
+SPEI-2026-00489,1789916940,CTA-0019,34198.98,USD,012315488786608593,destinatario_252@banco.com.mx,Nómina,DEVUELTA,App Android,destinatario_252@banco.com.mx,VALIDO,False,False,34198.98,False
+SPEI-2026-00490,2026-09-24T01:14:00-06:00,CTA-0020,30508.49,MXN,012864531581691896,destinatario_132@banco.com.mx,Comida,LIQUIDADA,Web Banking,destinatario_132@banco.com.mx,VALIDO,False,False,30508.49,False
+SPEI-2026-00491,2026-09-16T21:36:00-06:00,CTA-0039,906.53,MXN,012664482712820711,destinatario_901@banco.com.mx,Transferencia,LIQUIDADA,App iOS,destinatario_901@banco.com.mx,VALIDO,False,False,906.53,False
+SPEI-2026-00492,2026-09-09T23:20:00-06:00,CTA-0040,23039.32,MXN,012730726294882686,destinatario_411@banco.com.mx,Nómina,RECHAZADA,App iOS,destinatario_411@banco.com.mx,VALIDO,False,False,23039.32,False
+SPEI-2026-00493,1789633020,CTA-0015,18072.62,MXN,012813246159340750,destinatario_978@banco.com.mx,Pago Renta,RECHAZADA,App iOS,destinatario_978@banco.com.mx,VALIDO,False,False,18072.62,False
+SPEI-2026-00494,1789144800,CTA-0015,23414.65,MXN,012101535081743943,SIN_CORREO,Préstamo,LIQUIDADA,API Empresarial,,NULO,True,False,23414.65,False
+SPEI-2026-00495,2026-10-13T16:29:00-06:00,CTA-0019,6967.74,USD,012538794949073825,destinatario_926@banco.com.mx,Servicios,liquidada,App Android,destinatario_926@banco.com.mx,VALIDO,False,False,6967.74,False
+SPEI-2026-00496,2026-10-01T19:17:00-06:00,CTA-0043,9407.13,MXN,012398953130229195,destinatario_978@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_978@banco.com.mx,VALIDO,False,False,9407.13,False
+SPEI-2026-00497,1789479480,CTA-7965,26185.4,MXN,012438288647214667,SIN_CORREO,Servicios,LIQUIDADA,App Android,,VACIO,True,False,26185.4,False
+SPEI-2026-00498,2026-09-29T11:14:00-06:00,CTA-0049,19500.42,MXN,12345,destinatario_506@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_506@banco.com.mx,VALIDO,False,False,19500.42,False
+SPEI-2026-00499,2026-09-27T03:10:00-06:00,CTA-0019,13627.98,MXN,012550368213599668,destinatario_162@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_162@banco.com.mx,VALIDO,False,False,13627.98,False
+SPEI-2026-00500,1791499020,CTA-0041,50667.5675,MXN,12345,destinatario_765@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_765@banco.com.mx,VALIDO,False,False,370996.5,True
+SPEI-2026-00501,2026-09-29T15:48:00-06:00,CTA-7073,10996.29,MXN,012600067496035251,destinatario_709@banco.com.mx,Pago Renta,LIQUIDADA,API Empresarial,destinatario_709@banco.com.mx,VALIDO,False,False,10996.29,False
+SPEI-2026-00502,1790578920,CTA-0046,32270.88,USD,012576112551932269,SIN_CORREO,Nómina,liquidada,App Android,,NULO,True,False,32270.88,False
+SPEI-2026-00503,2026-09-20T21:36:00-06:00,CTA-0034,32400.34,MXN,012222608369716321,destinatario_265@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_265@banco.com.mx,VALIDO,False,False,32400.34,False
+SPEI-2026-00504,2026-09-16T00:56:00-06:00,CTA-0024,21620.75,USD,012555110310416279,destinatario_697@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_697@banco.com.mx,VALIDO,False,False,21620.75,False
+SPEI-2026-00505,2026-10-01T20:53:00-06:00,CTA-0040,15932.33,USD,012881904927611512,destinatario_989@banco.com.mx,Préstamo,PENDIENTE,API Empresarial,destinatario_989@banco.com.mx,VALIDO,False,False,15932.33,False
+SPEI-2026-00506,2026-09-13T23:51:00-06:00,CTA-0010,18435.52,MXN,012272750549940191,destinatario_777@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_777@banco.com.mx,VALIDO,False,False,18435.52,False
+SPEI-2026-00507,2026-10-15T02:59:00-06:00,CTA-0017,7066.5,MXN,012539682712513713,destinatario_883@banco.com.mx,Pago Renta,DEVUELTA,App iOS,destinatario_883@banco.com.mx,VALIDO,False,False,7066.5,False
+SPEI-2026-00508,2026-10-12T03:30:00-06:00,CTA-0036,16214.64,MXN,12345,destinatario_834@banco.com.mx,Transferencia,PENDIENTE,App Android,destinatario_834@banco.com.mx,VALIDO,False,False,16214.64,False
+SPEI-2026-00509,2026-09-17T12:19:00-06:00,CTA-0024,18752.26,MXN,012846045680433988,destinatario_115@banco.com.mx,Transferencia,RECHAZADA,Web Banking,destinatario_115@banco.com.mx,VALIDO,False,False,18752.26,False
+SPEI-2026-00510,1791605700,CTA-0015,24361.58,USD,012547580238942460,destinatario_841@banco.com.mx,Comida,liquidada,Web Banking,destinatario_841@banco.com.mx,VALIDO,False,False,24361.58,False
+SPEI-2026-00511,1791789660,CTA-0039,13660.58,MXN,012851224616919221,destinatario_149@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_149@banco.com.mx,VALIDO,False,False,13660.58,False
+SPEI-2026-00512,1788654540,CTA-0027,8870.63,MXN,012256852557410637,destinatario_738@banco.com.mx,Nómina,LIQUIDADA,App iOS,destinatario_738@banco.com.mx,VALIDO,False,False,8870.63,False
+SPEI-2026-00513,2026-10-03T04:41:00-06:00,CTA-0036,10638.29,MXN,012960368068782978,destinatario_952@banco.com.mx,Transferencia,PENDIENTE,API Empresarial,destinatario_952@banco.com.mx,VALIDO,False,False,10638.29,False
+SPEI-2026-00514,1791979440,CTA-0013,18546.42,MXN,012807210367278016,destinatario_577@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_577@banco.com.mx,VALIDO,False,False,18546.42,False
+SPEI-2026-00515,2026-09-09T02:49:00-06:00,CTA-0009,30763.59,MXN,012918794825618796,destinatario_318@banco.com.mx,Préstamo,LIQUIDADA,API Empresarial,destinatario_318@banco.com.mx,VALIDO,False,False,30763.59,False
+SPEI-2026-00516,1791773100,CTA-0041,6675.94,USD,012784039840557744,destinatario_219@banco.com.mx,Comida,liquidada,Web Banking,destinatario_219@banco.com.mx,VALIDO,False,False,6675.94,False
+SPEI-2026-00517,2026-10-08T02:26:00-06:00,CTA-0040,572.52,MXN,012176247121712837,destinatario_330@banco.com.mx,Transferencia,liquidada,App Android,destinatario_330@banco.com.mx,VALIDO,False,False,572.52,False
+SPEI-2026-00518,2026-10-05T04:56:00-06:00,CTA-0009,28186.26,MXN,012370667131757140,destinatario_279@banco.com.mx,Préstamo,PENDIENTE,Web Banking,destinatario_279@banco.com.mx,VALIDO,False,False,28186.26,False
+SPEI-2026-00519,2026-09-12T10:11:00-06:00,CTA-0011,9041.34,MXN,012379576435526187,destinatario_632@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_632@banco.com.mx,VALIDO,False,False,9041.34,False
+SPEI-2026-00520,2026-09-05T09:50:00-06:00,CTA-0008,14941.69,MXN,012732675828932378,destinatario_824@banco.com.mx,Pago Renta,RECHAZADA,Web Banking,destinatario_824@banco.com.mx,VALIDO,False,False,14941.69,False
+SPEI-2026-00521,2026-10-14T21:50:00-06:00,CTA-0039,31849.13,MXN,012639205358351732,destinatario_270@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_270@banco.com.mx,VALIDO,False,False,31849.13,False
+SPEI-2026-00522,2026-09-10T00:45:00-06:00,CTA-0045,33382.38,MXN,012915691110689036,destinatario_219@banco.com.mx,Servicios,LIQUIDADA,App Android,destinatario_219@banco.com.mx,VALIDO,False,False,33382.38,False
+SPEI-2026-00523,2026-10-03T09:04:00-06:00,CTA-0021,21805.98,USD,012651361922869452,destinatario_734@banco.com.mx,Nómina,DEVUELTA,App Android,destinatario_734@banco.com.mx,VALIDO,False,False,21805.98,False
+SPEI-2026-00524,2026-10-02T18:20:00-06:00,CTA-0023,33660.38,USD,012868074453714081,destinatario_360@banco.com.mx,Pago Renta,DEVUELTA,App Android,destinatario_360@banco.com.mx,VALIDO,False,False,33660.38,False
+SPEI-2026-00525,2026-09-01T06:45:00-06:00,CTA-0030,12462.37,USD,012216428420449911,destinatario_574@banco.com.mx,Comida,RECHAZADA,App Android,destinatario_574@banco.com.mx,VALIDO,False,False,12462.37,False
+SPEI-2026-00526,2026-09-01T17:02:00-06:00,CTA-0002,1170.96,MXN,012287045671153532,destinatario_816@banco.com.mx,Transferencia,PENDIENTE,App Android,destinatario_816@banco.com.mx,VALIDO,False,False,1170.96,False
+SPEI-2026-00527,2026-09-11T03:02:00-06:00,CTA-0015,18283.5,MXN,012906445520147556,destinatario_275@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_275@banco.com.mx,VALIDO,False,False,18283.5,False
+SPEI-2026-00528,1790848800,CTA-0001,836.58,MXN,012858202729821374,destinatario_657@banco.com.mx,Transferencia,liquidada,API Empresarial,destinatario_657@banco.com.mx,VALIDO,False,False,836.58,False
+SPEI-2026-00529,2026-09-14T20:25:00-06:00,CTA-0028,25611.34,USD,12345,destinatario_439@banco.com.mx,Préstamo,LIQUIDADA,App iOS,destinatario_439@banco.com.mx,VALIDO,False,False,25611.34,False
+SPEI-2026-00530,2026-09-20T22:34:00-06:00,CTA-0040,4552.31,MXN,012336214666599747,destinatario_312@banco.com.mx,Servicios,liquidada,App Android,destinatario_312@banco.com.mx,VALIDO,False,False,4552.31,False
+SPEI-2026-00531,2026-09-10T23:41:00-06:00,CTA-0003,31659.29,USD,012820291009134522,destinatario_799@banco.com.mx,Servicios,RECHAZADA,App Android,destinatario_799@banco.com.mx,VALIDO,False,False,31659.29,False
+SPEI-2026-00532,2026-10-07T04:54:00-06:00,CTA-0028,21234.76,USD,012575157059361758,destinatario_826@banco.com.mx,Servicios,PENDIENTE,API Empresarial,destinatario_826@banco.com.mx,VALIDO,False,False,21234.76,False
+SPEI-2026-00533,1791990000,CTA-0031,8935.66,MXN,012212126089268523,SIN_CORREO,Préstamo,PENDIENTE,API Empresarial,correo@@sinformato,INVALIDO,True,False,8935.66,False
+SPEI-2026-00534,2026-10-05T09:18:00-06:00,CTA-7702,1010.05,MXN,012437006357863436,destinatario_771@banco.com.mx,Servicios,liquidada,App iOS,destinatario_771@banco.com.mx,VALIDO,False,False,1010.05,False
+SPEI-2026-00535,1788772920,CTA-0019,22914.18,MXN,012893851596698164,destinatario_517@banco.com.mx,Transferencia,liquidada,App iOS,destinatario_517@banco.com.mx,VALIDO,False,False,22914.18,False
+SPEI-2026-00536,1792167780,CTA-0011,5734.43,MXN,012666567709074019,destinatario_665@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_665@banco.com.mx,VALIDO,False,False,5734.43,False
+SPEI-2026-00537,1790174820,CTA-0016,24973.15,MXN,012940092767828043,destinatario_514@banco.com.mx,Nómina,PENDIENTE,Web Banking,destinatario_514@banco.com.mx,VALIDO,False,False,24973.15,False
+SPEI-2026-00538,2026-09-06T03:58:00-06:00,CTA-0007,11395.6,USD,012601387880799695,destinatario_545@banco.com.mx,Comida,PENDIENTE,App Android,destinatario_545@banco.com.mx,VALIDO,False,False,11395.6,False
+SPEI-2026-00539,2026-09-06T14:17:00-06:00,CTA-0015,8366.7,USD,12345,destinatario_467@banco.com.mx,Comida,DEVUELTA,App iOS,destinatario_467@banco.com.mx,VALIDO,False,False,8366.7,False
+SPEI-2026-00540,2026-09-05T09:52:00-06:00,CTA-0028,34708.32,USD,012964880537098991,destinatario_819@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_819@banco.com.mx,VALIDO,False,False,34708.32,False
+SPEI-2026-00541,2026-09-23T18:26:00-06:00,CTA-0048,21005.47,MXN,012984115531944018,destinatario_190@banco.com.mx,Comida,PENDIENTE,App Android,destinatario_190@banco.com.mx,VALIDO,False,False,21005.47,False
+SPEI-2026-00542,2026-09-22T14:26:00-06:00,CTA-7312,8791.49,MXN,12345,destinatario_799@banco.com.mx,Comida,RECHAZADA,API Empresarial,destinatario_799@banco.com.mx,VALIDO,False,False,8791.49,False
+SPEI-2026-00543,2026-09-07T11:42:00-06:00,CTA-0003,4114.19,USD,012974659760918056,destinatario_488@banco.com.mx,Pago Renta,PENDIENTE,App Android,destinatario_488@banco.com.mx,VALIDO,False,False,4114.19,False
+SPEI-2026-00544,1792040640,CTA-0028,20242.96,MXN,012873330366685476,destinatario_732@banco.com.mx,Servicios,RECHAZADA,API Empresarial,destinatario_732@banco.com.mx,VALIDO,False,False,20242.96,False
+SPEI-2026-00545,2026-09-08T23:15:00-06:00,CTA-0048,26440.79,MXN,012625279339207766,destinatario_980@banco.com.mx,Préstamo,DEVUELTA,App iOS,destinatario_980@banco.com.mx,VALIDO,False,False,26440.79,False
+SPEI-2026-00546,2026-09-14T16:43:00-06:00,CTA-0015,18190.76,MXN,012926275968128658,destinatario_948@banco.com.mx,Comida,PENDIENTE,API Empresarial,destinatario_948@banco.com.mx,VALIDO,False,False,18190.76,False
+SPEI-2026-00547,1791211740,CTA-0007,13887.6,MXN,012109631758250103,destinatario_828@banco.com.mx,Servicios,liquidada,API Empresarial,destinatario_828@banco.com.mx,VALIDO,False,False,13887.6,False
+SPEI-2026-00548,2026-10-08T19:54:00-06:00,CTA-0040,28844.0,MXN,012823469634458742,destinatario_420@banco.com.mx,Préstamo,RECHAZADA,App iOS,destinatario_420@banco.com.mx,VALIDO,False,False,28844.0,False
+SPEI-2026-00549,2026-09-29T12:37:00-06:00,CTA-0003,14940.21,USD,012836553754772024,destinatario_889@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_889@banco.com.mx,VALIDO,False,False,14940.21,False
+SPEI-2026-00550,2026-09-17T07:21:00-06:00,CTA-0002,7364.96,MXN,012900107897770320,destinatario_437@banco.com.mx,Transferencia,LIQUIDADA,API Empresarial,destinatario_437@banco.com.mx,VALIDO,False,False,7364.96,False
+SPEI-2026-00551,2026-10-07T13:23:00-06:00,CTA-0046,17783.04,MXN,012849842949793435,destinatario_788@banco.com.mx,Comida,LIQUIDADA,API Empresarial,destinatario_788@banco.com.mx,VALIDO,False,False,17783.04,False
+SPEI-2026-00552,1789400580,CTA-0020,24285.16,MXN,012624323018890752,destinatario_553@banco.com.mx,Pago Renta,liquidada,Web Banking,destinatario_553@banco.com.mx,VALIDO,False,False,24285.16,False
+SPEI-2026-00553,2026-10-11T00:31:00-06:00,CTA-0042,20456.19,MXN,012462029240337645,destinatario_302@banco.com.mx,Nómina,liquidada,API Empresarial,destinatario_302@banco.com.mx,VALIDO,False,False,20456.19,False
+SPEI-2026-00554,2026-09-22T04:35:00-06:00,CTA-0039,25495.19,MXN,012869416854028087,destinatario_883@banco.com.mx,Préstamo,liquidada,App Android,destinatario_883@banco.com.mx,VALIDO,False,False,25495.19,False
+SPEI-2026-00555,2026-10-15T21:45:00-06:00,CTA-0021,21826.26,USD,012257235266801856,destinatario_708@banco.com.mx,Nómina,RECHAZADA,API Empresarial,destinatario_708@banco.com.mx,VALIDO,False,False,21826.26,False
+SPEI-2026-00556,2026-09-28T19:21:00-06:00,CTA-0019,24877.12,MXN,12345,destinatario_452@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_452@banco.com.mx,VALIDO,False,False,24877.12,False
+SPEI-2026-00557,2026-09-27T09:16:00-06:00,CTA-0013,19747.85,MXN,012280275952136824,destinatario_918@banco.com.mx,Comida,liquidada,App iOS,destinatario_918@banco.com.mx,VALIDO,False,False,19747.85,False
+SPEI-2026-00558,2026-10-01T21:46:00-06:00,CTA-0010,14675.73,USD,012273189858061306,destinatario_852@banco.com.mx,Nómina,PENDIENTE,App Android,destinatario_852@banco.com.mx,VALIDO,False,False,14675.73,False
+SPEI-2026-00559,1788369840,CTA-0041,24339.37,MXN,012516265528701045,destinatario_104@banco.com.mx,Préstamo,PENDIENTE,Web Banking,destinatario_104@banco.com.mx,VALIDO,False,False,24339.37,False
+SPEI-2026-00560,2026-09-14T22:21:00-06:00,CTA-0027,17080.74,MXN,012993498895451293,destinatario_921@banco.com.mx,Transferencia,liquidada,API Empresarial,destinatario_921@banco.com.mx,VALIDO,False,False,17080.74,False
+SPEI-2026-00561,1791437880,CTA-0013,14416.54,MXN,012374941579017394,destinatario_282@banco.com.mx,Servicios,liquidada,API Empresarial,destinatario_282@banco.com.mx,VALIDO,False,False,14416.54,False
+SPEI-2026-00562,1788349380,CTA-0037,15572.09,USD,012970613312450829,SIN_CORREO,Servicios,DEVUELTA,App iOS,correo@@sinformato,INVALIDO,True,False,15572.09,False
+SPEI-2026-00563,1790132760,CTA-0005,20461.45,USD,012591367696710418,destinatario_416@banco.com.mx,Nómina,LIQUIDADA,API Empresarial,destinatario_416@banco.com.mx,VALIDO,False,False,20461.45,False
+SPEI-2026-00564,2026-10-06T20:12:00-06:00,CTA-0005,28635.52,MXN,012933876802130646,destinatario_750@banco.com.mx,Comida,DEVUELTA,App Android,destinatario_750@banco.com.mx,VALIDO,False,False,28635.52,False
+SPEI-2026-00565,1789453800,CTA-0022,14655.71,USD,012675229889054995,destinatario_672@banco.com.mx,Servicios,DEVUELTA,Web Banking,destinatario_672@banco.com.mx,VALIDO,False,False,14655.71,False
+SPEI-2026-00566,2026-09-04T10:18:00-06:00,CTA-0050,25750.07,MXN,012716434711564383,destinatario_555@banco.com.mx,Pago Renta,DEVUELTA,App Android,destinatario_555@banco.com.mx,VALIDO,False,False,25750.07,False
+SPEI-2026-00567,2026-10-13T16:53:00-06:00,CTA-0045,33601.5,MXN,12345,destinatario_271@banco.com.mx,Préstamo,RECHAZADA,API Empresarial,destinatario_271@banco.com.mx,VALIDO,False,False,33601.5,False
+SPEI-2026-00568,1791073200,CTA-0024,50667.5675,MXN,012828155954009736,destinatario_681@banco.com.mx,Préstamo,DEVUELTA,App Android,destinatario_681@banco.com.mx,VALIDO,False,False,2581932.0,True
+SPEI-2026-00569,2026-09-22T05:23:00-06:00,CTA-0017,16328.89,MXN,12345,destinatario_606@banco.com.mx,Pago Renta,PENDIENTE,Web Banking,destinatario_606@banco.com.mx,VALIDO,False,False,16328.89,False
+SPEI-2026-00570,2026-09-30T14:49:00-06:00,CTA-0031,3070.05,MXN,012272438303866107,destinatario_626@banco.com.mx,Nómina,DEVUELTA,App iOS,destinatario_626@banco.com.mx,VALIDO,False,False,3070.05,False
+SPEI-2026-00571,2026-10-03T04:57:00-06:00,CTA-0009,24775.16,MXN,012101473289084346,destinatario_363@banco.com.mx,Servicios,LIQUIDADA,API Empresarial,destinatario_363@banco.com.mx,VALIDO,False,False,24775.16,False
+SPEI-2026-00572,2026-10-16T12:34:00-06:00,CTA-7396,2645.76,MXN,012749901007747502,destinatario_756@banco.com.mx,Transferencia,LIQUIDADA,App Android,destinatario_756@banco.com.mx,VALIDO,False,False,2645.76,False
+SPEI-2026-00573,1789293360,CTA-0034,9224.68,MXN,012856886509074027,destinatario_469@banco.com.mx,Pago Renta,DEVUELTA,App iOS,destinatario_469@banco.com.mx,VALIDO,False,False,9224.68,False
+SPEI-2026-00574,2026-09-06T19:35:00-06:00,CTA-0039,50667.5675,MXN,012879278871231445,destinatario_819@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_819@banco.com.mx,VALIDO,False,False,2745655.5,True
+SPEI-2026-00575,2026-09-24T05:02:00-06:00,CTA-0007,25372.36,MXN,012354551050717218,destinatario_946@banco.com.mx,Comida,PENDIENTE,Web Banking,destinatario_946@banco.com.mx,VALIDO,False,False,25372.36,False
+SPEI-2026-00576,1790369040,CTA-0039,14459.32,MXN,012139389538450972,destinatario_435@banco.com.mx,Comida,LIQUIDADA,App iOS,destinatario_435@banco.com.mx,VALIDO,False,False,14459.32,False
+SPEI-2026-00577,2026-09-07T15:35:00-06:00,CTA-0004,6222.54,USD,012736523984704523,destinatario_252@banco.com.mx,Transferencia,liquidada,App Android,destinatario_252@banco.com.mx,VALIDO,False,False,6222.54,False
+SPEI-2026-00578,2026-10-14T05:39:00-06:00,CTA-7012,31661.13,MXN,012859352196677452,destinatario_584@banco.com.mx,Transferencia,RECHAZADA,App Android,destinatario_584@banco.com.mx,VALIDO,False,False,31661.13,False
+SPEI-2026-00579,2026-09-21T19:55:00-06:00,CTA-0028,10857.66,MXN,012846591517550716,destinatario_271@banco.com.mx,Comida,RECHAZADA,App Android,destinatario_271@banco.com.mx,VALIDO,False,False,10857.66,False
+SPEI-2026-00580,2026-09-26T09:07:00-06:00,CTA-0006,15456.26,MXN,012512518083015779,destinatario_912@banco.com.mx,Nómina,liquidada,API Empresarial,destinatario_912@banco.com.mx,VALIDO,False,False,15456.26,False
+SPEI-2026-00581,2026-09-15T14:50:00-06:00,CTA-0040,25967.47,MXN,012700751589762554,destinatario_803@banco.com.mx,Transferencia,DEVUELTA,App iOS,destinatario_803@banco.com.mx,VALIDO,False,False,25967.47,False
+SPEI-2026-00582,1790113740,CTA-0021,10576.19,MXN,012792852520368760,destinatario_919@banco.com.mx,Comida,PENDIENTE,App iOS,destinatario_919@banco.com.mx,VALIDO,False,False,10576.19,False
+SPEI-2026-00583,1791617520,CTA-0038,27903.88,MXN,012858676101911054,destinatario_275@banco.com.mx,Préstamo,RECHAZADA,Web Banking,destinatario_275@banco.com.mx,VALIDO,False,False,27903.88,False
+SPEI-2026-00584,1791415620,CTA-7632,26781.6,MXN,012209401876319126,destinatario_551@banco.com.mx,Pago Renta,LIQUIDADA,Web Banking,destinatario_551@banco.com.mx,VALIDO,False,False,26781.6,False
+SPEI-2026-00585,2026-10-05T08:26:00-06:00,CTA-0005,21358.6,MXN,012185990252960864,destinatario_844@banco.com.mx,Comida,DEVUELTA,App iOS,destinatario_844@banco.com.mx,VALIDO,False,False,21358.6,False
+SPEI-2026-00586,2026-09-04T21:29:00-06:00,CTA-0014,9661.19,USD,012275865530873238,SIN_CORREO,Servicios,RECHAZADA,App Android,correo@@sinformato,INVALIDO,True,False,9661.19,False
+SPEI-2026-00587,2026-10-13T04:00:00-06:00,CTA-0032,19155.38,MXN,012717061351676889,destinatario_688@banco.com.mx,Transferencia,PENDIENTE,App Android,destinatario_688@banco.com.mx,VALIDO,False,False,19155.38,False
+SPEI-2026-00588,1789854180,CTA-0049,9837.43,MXN,012379119547387499,destinatario_105@banco.com.mx,Pago Renta,DEVUELTA,Web Banking,destinatario_105@banco.com.mx,VALIDO,False,False,9837.43,False
+SPEI-2026-00589,1788704820,CTA-0012,11791.42,USD,012799740985551060,destinatario_377@banco.com.mx,Nómina,DEVUELTA,API Empresarial,destinatario_377@banco.com.mx,VALIDO,False,False,11791.42,False
+SPEI-2026-00590,2026-10-10T16:33:00-06:00,CTA-0028,34760.62,MXN,012470858738461630,destinatario_581@banco.com.mx,Servicios,RECHAZADA,App iOS,destinatario_581@banco.com.mx,VALIDO,False,False,34760.62,False
+SPEI-2026-00591,2026-09-08T19:59:00-06:00,CTA-0001,20364.5,MXN,012878282447779837,destinatario_318@banco.com.mx,Comida,DEVUELTA,App Android,destinatario_318@banco.com.mx,VALIDO,False,False,20364.5,False
+SPEI-2026-00592,2026-10-13T02:44:00-06:00,CTA-0022,31358.65,MXN,012413901293872986,destinatario_127@banco.com.mx,Comida,RECHAZADA,Web Banking,destinatario_127@banco.com.mx,VALIDO,False,False,31358.65,False
+SPEI-2026-00593,2026-09-28T23:50:00-06:00,CTA-0016,32243.21,MXN,012552684413285908,destinatario_468@banco.com.mx,Nómina,liquidada,App iOS,destinatario_468@banco.com.mx,VALIDO,False,False,32243.21,False
+SPEI-2026-00594,2026-09-02T21:26:00-06:00,CTA-0030,1107.45,MXN,012247850105050578,destinatario_337@banco.com.mx,Servicios,RECHAZADA,App Android,destinatario_337@banco.com.mx,VALIDO,False,False,1107.45,False
+SPEI-2026-00595,2026-09-29T21:11:00-06:00,CTA-0014,25055.79,MXN,012830370509100675,destinatario_169@banco.com.mx,Préstamo,DEVUELTA,Web Banking,destinatario_169@banco.com.mx,VALIDO,False,False,25055.79,False
+SPEI-2026-00596,1788777600,CTA-0005,551.05,MXN,012707520926155718,destinatario_290@banco.com.mx,Pago Renta,DEVUELTA,API Empresarial,destinatario_290@banco.com.mx,VALIDO,False,False,551.05,False
+SPEI-2026-00597,2026-09-20T11:39:00-06:00,CTA-0045,14076.83,MXN,012433778372816912,destinatario_543@banco.com.mx,Pago Renta,liquidada,App Android,destinatario_543@banco.com.mx,VALIDO,False,False,14076.83,False
+SPEI-2026-00598,2026-09-11T21:33:00-06:00,CTA-0005,20460.79,MXN,012406817918516593,destinatario_423@banco.com.mx,Transferencia,PENDIENTE,Web Banking,destinatario_423@banco.com.mx,VALIDO,False,False,20460.79,False
+SPEI-2026-00599,2026-09-11T22:53:00-06:00,CTA-0033,30925.82,MXN,012347947044009642,destinatario_145@banco.com.mx,Nómina,PENDIENTE,API Empresarial,destinatario_145@banco.com.mx,VALIDO,False,False,30925.82,False
+SPEI-2026-00600,1789130820,CTA-0047,30367.75,USD,012242735906487042,destinatario_635@banco.com.mx,Transferencia,DEVUELTA,API Empresarial,destinatario_635@banco.com.mx,VALIDO,False,False,30367.75,False

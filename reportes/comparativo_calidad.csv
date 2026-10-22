@@ -1,0 +1,40 @@
+fuente,indicador,etapa,valor,total_referencia,porcentaje,nota
+atm,registros,original,620,,,
+atm,registros,sin_duplicados,600,,,
+atm,registros,final,600,,,
+atm,duplicados_exactos,original,20,620.0,3.23,separados con trazabilidad
+atm,consultas_saldo,original,101,620.0,16.29,"monto cero válido, se conservan"
+atm,consultas_saldo,sin_duplicados,97,600.0,16.17,"monto cero válido, se conservan"
+atm,consultas_saldo,final,97,600.0,16.17,"monto cero válido, se conservan"
+atm,monto_mxn_nulos,original,27,620.0,4.35,
+atm,monto_mxn_nulos,sin_duplicados,27,600.0,4.5,
+atm,monto_mxn_nulos,final,0,600.0,0.0,
+atm,monto_mxn_observados,final,573,600.0,95.5,"valores de la fuente, no imputados"
+atm,monto_mxn_imputados,final,27,600.0,4.5,mediana por tipo_operacion; no son observaciones
+atm,id_cajero_nulos,original,44,620.0,7.1,
+atm,id_cajero_nulos,sin_duplicados,42,600.0,7.0,
+atm,id_cajero_nulos,final,0,600.0,0.0,
+atm,id_cajero_imputados,final,42,600.0,7.0,CAJERO_DESCONOCIDO
+atm,comision_aplicada_nulos,original,0,620.0,0.0,sin imputación
+atm,comision_aplicada_nulos,sin_duplicados,0,600.0,0.0,sin imputación
+atm,comision_aplicada_nulos,final,0,600.0,0.0,sin imputación
+atm,montos_imposibles,sin_duplicados,0,600.0,0.0,separados para cuarentena
+atm,outliers_recortados,final,1,503.0,0.2,IQR sobre operaciones monetarias
+atm,registros_sin_modificacion,final,531,600.0,88.5,sin imputación ni capping
+spei,registros,original,600,,,
+spei,registros,sin_duplicados,600,,,
+spei,registros,final,600,,,
+spei,duplicados_exactos,original,0,600.0,0.0,separados con trazabilidad
+spei,email_nulo,original,8,600.0,1.33,
+spei,email_vacio,original,8,600.0,1.33,
+spei,email_invalido,original,30,600.0,5.0,
+spei,email_nulo,sin_duplicados,8,600.0,1.33,
+spei,email_vacio,sin_duplicados,8,600.0,1.33,
+spei,email_invalido,sin_duplicados,30,600.0,5.0,
+spei,email_corregidos,final,46,600.0,7.67,SIN_CORREO
+spei,email_validos,final,554,600.0,92.33,correo original conservado
+spei,montos_imposibles,sin_duplicados,0,600.0,0.0,separados para cuarentena
+spei,outliers_recortados_MXN,final,15,466.0,3.22,IQR calculado solo con MXN
+spei,outliers_recortados_USD,final,3,134.0,2.24,IQR calculado solo con USD
+spei,email_normalizados,final,0,600.0,0.0,válidos tras quitar espacios
+spei,registros_sin_modificacion,final,536,600.0,89.33,sin corrección de correo ni capping

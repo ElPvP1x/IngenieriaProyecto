@@ -1,0 +1,5 @@
+fuente,tipo_operacion,mediana_usada,montos_validos,nulos_antes,imputados
+atm,CONSULTA_SALDO,0.0,97,0,0
+atm,DEPOSITO,4000.0,120,7,7
+atm,PAGO_SERVICIOS,4000.0,110,4,4
+atm,RETIRO,2000.0,246,16,16

@@ -1,0 +1,6 @@
+# Módulo del Ingeniero 1 (src/limpieza.py). Probado con Python 3.14.3.
+# Versiones probadas: pandas 3.0.5, numpy 2.3.4, matplotlib 3.10.7.
+pandas>=3.0.5,<4
+numpy>=2.3.4,<3
+# Solo para graficar_boxplots(); requiere >= 3.9 por el parámetro tick_labels.
+matplotlib>=3.10.7,<4

@@ -1,0 +1,9 @@
+fuente,columna,agrupado_por,grupo,registros,nulos,ceros,negativos,minimo,q1,mediana,q3,maximo,media,desv_std
+atm,monto_mxn,tipo_operacion,CONSULTA_SALDO,101,0,101,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+atm,monto_mxn,tipo_operacion,DEPOSITO,133,7,0,0,500.0,1500.0,4000.0,8000.0,12000.0,4658.73,4317.71
+atm,monto_mxn,tipo_operacion,PAGO_SERVICIOS,116,4,0,0,500.0,1500.0,4000.0,8000.0,12000.0,5361.61,4391.95
+atm,monto_mxn,tipo_operacion,RETIRO,270,16,0,0,200.0,500.0,2000.0,5000.0,3500000.0,17075.59,219422.44
+atm,monto_mxn,tipo_operacion,TOTAL,620,27,101,0,0.0,500.0,1500.0,5000.0,3500000.0,9316.53,143637.62
+spei,amount,currency,MXN,466,0,0,0,73.62,10000.955,18426.845,26267.6,5240100.0,104680.93,558740.46
+spei,amount,currency,USD,134,0,0,0,106.6,11413.8875,19356.64,26838.635000000002,4141401.0,75938.57,436217.6
+spei,amount,currency,TOTAL,600,0,0,0,73.62,10394.377499999999,18448.765,26397.335,5240100.0,98261.81,533615.81

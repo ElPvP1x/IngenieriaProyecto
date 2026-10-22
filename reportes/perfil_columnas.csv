@@ -1,0 +1,25 @@
+fuente,columna,tipo_pandas,tipos_python,registros,nulos,pct_nulos,vacios,unicos,ejemplo
+catalogo,id_cuenta,str,str(50),50,0,0.0,0,50,CTA-0001
+catalogo,titular,str,str(50),50,0,0.0,0,49,Rosa Ruiz
+catalogo,tipo_cuenta,str,str(50),50,0,0.0,0,5,Empresarial
+catalogo,limite_credito_mxn,float64,float(50),50,0,0.0,0,5,200000.0
+catalogo,fecha_apertura,str,str(50),50,0,0.0,0,50,2025-08-16
+catalogo,estado_cuenta,str,str(50),50,0,0.0,0,3,ACTIVA
+atm,id_transaccion,str,str(620),620,0,0.0,0,600,ATM-TX-00001
+atm,fecha_hora,str,str(620),620,0,0.0,0,600,2026/09/15 08:45:00
+atm,id_cuenta,str,str(620),620,0,0.0,0,82,CTA-0049
+atm,tipo_operacion,str,str(620),620,0,0.0,0,4,RETIRO
+atm,monto_mxn,float64,float(593),620,27,4.35,0,14,200.0
+atm,id_cajero,str,str(576),620,44,7.1,0,5,ATM-VDA-01
+atm,resultado,str,str(620),620,0,0.0,0,4,EXITOSA
+atm,comision_aplicada,float64,float(620),620,0,0.0,0,4,15.0
+spei,transfer_id,str,str(600),600,0,0.0,0,600,SPEI-2026-00001
+spei,timestamp,object,"str(405), int(195)",600,0,0.0,0,598,2026-09-12T19:49:00-06:00
+spei,account_id,str,str(600),600,0,0.0,0,79,CTA-0025
+spei,amount,float64,float(600),600,0,0.0,0,600,19844.18
+spei,currency,str,str(600),600,0,0.0,0,2,MXN
+spei,beneficiary_clabe,str,str(600),600,0,0.0,0,555,012210100614023846
+spei,notification_email,str,str(592),600,8,1.33,8,419,destinatario_450@banco.com.mx
+spei,concept,str,str(600),600,0,0.0,0,6,Nómina
+spei,status,str,str(600),600,0,0.0,0,5,DEVUELTA
+spei,platform,str,str(600),600,0,0.0,0,4,API Empresarial

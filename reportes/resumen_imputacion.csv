@@ -1,0 +1,5 @@
+fuente,columna,faltantes_antes,imputados,faltantes_despues,metodo
+atm,monto_mxn,27,27,0,mediana por tipo_operacion
+atm,id_cajero,42,42,0,CAJERO_DESCONOCIDO
+spei,notification_email,46,46,0,SIN_CORREO
+atm,comision_aplicada,0,0,0,sin imputación (ceros válidos)

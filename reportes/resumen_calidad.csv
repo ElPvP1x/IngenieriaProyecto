@@ -1,0 +1,4 @@
+fuente,registros,columnas,columna_id,duplicados_exactos,ids_duplicados,celdas_nulas
+catalogo,50,6,id_cuenta,0,0,0
+atm,620,8,id_transaccion,20,20,71
+spei,600,10,transfer_id,0,0,8

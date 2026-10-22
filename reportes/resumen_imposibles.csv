@@ -1,0 +1,9 @@
+fuente,motivo_rechazo,registros
+atm,FALTANTE,0
+atm,NO_NUMERICO,0
+atm,NEGATIVO,0
+atm,CERO_NO_PERMITIDO,0
+spei,FALTANTE,0
+spei,NO_NUMERICO,0
+spei,NEGATIVO,0
+spei,CERO_NO_PERMITIDO,0

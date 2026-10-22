@@ -1,0 +1,36 @@
+fuente,columna_faltante,variable,categoria,faltantes,registros,pct_faltantes
+atm,monto_mxn,tipo_operacion,CONSULTA_SALDO,0,97,0.0
+atm,monto_mxn,tipo_operacion,DEPOSITO,7,127,5.51
+atm,monto_mxn,tipo_operacion,PAGO_SERVICIOS,4,114,3.51
+atm,monto_mxn,tipo_operacion,RETIRO,16,262,6.11
+atm,monto_mxn,resultado,EXITOSA,12,298,4.03
+atm,monto_mxn,resultado,FALLO_CONEXION,4,117,3.42
+atm,monto_mxn,resultado,FALLO_FONDOS,6,104,5.77
+atm,monto_mxn,resultado,exitosa,5,81,6.17
+atm,monto_mxn,formato_fecha_hora,99/99/9999 99:99,9,193,4.66
+atm,monto_mxn,formato_fecha_hora,9999-99-99 99:99:99,10,196,5.1
+atm,monto_mxn,formato_fecha_hora,9999/99/99 99:99:99,8,211,3.79
+atm,id_cajero,tipo_operacion,CONSULTA_SALDO,10,97,10.31
+atm,id_cajero,tipo_operacion,DEPOSITO,10,127,7.87
+atm,id_cajero,tipo_operacion,PAGO_SERVICIOS,8,114,7.02
+atm,id_cajero,tipo_operacion,RETIRO,14,262,5.34
+atm,id_cajero,resultado,EXITOSA,21,298,7.05
+atm,id_cajero,resultado,FALLO_CONEXION,10,117,8.55
+atm,id_cajero,resultado,FALLO_FONDOS,4,104,3.85
+atm,id_cajero,resultado,exitosa,7,81,8.64
+atm,id_cajero,formato_fecha_hora,99/99/9999 99:99,22,193,11.4
+atm,id_cajero,formato_fecha_hora,9999-99-99 99:99:99,14,196,7.14
+atm,id_cajero,formato_fecha_hora,9999/99/99 99:99:99,6,211,2.84
+spei,notification_email,platform,API Empresarial,11,166,6.63
+spei,notification_email,platform,App Android,11,145,7.59
+spei,notification_email,platform,App iOS,15,139,10.79
+spei,notification_email,platform,Web Banking,9,150,6.0
+spei,notification_email,currency,MXN,31,466,6.65
+spei,notification_email,currency,USD,15,134,11.19
+spei,notification_email,status,DEVUELTA,11,132,8.33
+spei,notification_email,status,LIQUIDADA,12,115,10.43
+spei,notification_email,status,PENDIENTE,9,115,7.83
+spei,notification_email,status,RECHAZADA,7,117,5.98
+spei,notification_email,status,liquidada,7,121,5.79
+spei,notification_email,tipo_timestamp,int,25,195,12.82
+spei,notification_email,tipo_timestamp,str,21,405,5.19
