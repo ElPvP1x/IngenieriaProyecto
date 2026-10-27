@@ -1,0 +1,12 @@
+tabla,fuente,detalle,registros
+transacciones_limpias,ATM,,354
+transacciones_limpias,SPEI,,329
+cuarentena_errores,ATM,LIMPIEZA_DUPLICADO / DUPLICADO_EXACTO,20
+cuarentena_errores,ATM,TRANSFORMACION_CATALOGO / CUENTA_BLOQUEADA,117
+cuarentena_errores,ATM,TRANSFORMACION_CATALOGO / CUENTA_HUERFANA,32
+cuarentena_errores,ATM,TRANSFORMACION_CATALOGO / CUENTA_SUSPENDIDA,97
+cuarentena_errores,SPEI,TRANSFORMACION_CATALOGO / CUENTA_BLOQUEADA,98
+cuarentena_errores,SPEI,TRANSFORMACION_CATALOGO / CUENTA_HUERFANA,29
+cuarentena_errores,SPEI,TRANSFORMACION_CATALOGO / CUENTA_SUSPENDIDA,115
+cuarentena_errores,SPEI,VALIDACION_PYDANTIC / beneficiary_clabe,29
+total,,,1220

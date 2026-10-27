@@ -4,3 +4,6 @@ pandas>=3.0.5,<4
 numpy>=2.3.4,<3
 # Solo para graficar_boxplots(); requiere >= 3.9 por el parámetro tick_labels.
 matplotlib>=3.10.7,<4
+# Ingeniero 3 (src/validacion.py): esquemas con BaseModel y @field_validator.
+# 2.12 es la primera versión con soporte para Python 3.14. SQLite viene con Python.
+pydantic>=2.12,<3
